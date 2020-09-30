@@ -1,0 +1,3 @@
+note_id,file_name,folder_path,canon_text,conditional,cui,hof,imputed_time,location,location_snomed_id,negated,offset_end,offset_start,range_text,vocab_term,vocab,value
+small-acinar-carcinoma,small-acinar-carcinoma.txt,texts/,Alkalies,f,C0002055,f,na,null,null,f,293,289,base,63813000,SNOMEDCT_US,na
+small-acinar-carcinoma,small-acinar-carcinoma.txt,texts/,Fatty acid glycerol esters,f,C0015677,f,na,null,null,f,634,631,fat,256674009,SNOMEDCT_US,na

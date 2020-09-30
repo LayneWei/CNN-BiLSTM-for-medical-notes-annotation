@@ -1,0 +1,18 @@
+Diagnosis Comments:
+Synoptic Comment for Prostate Tumors
+- Type of tumor:  Small acinar adenocarcinoma.
+     - Location of tumor:  Left posterior midgland, slide C9; left anterior midgland, slide C11; right posterior apex, slide C1; right posterior midgland, slides C5-C7; right posterior base, slide C17; right anterior midgland, slide C3.
+- Estimated volume of tumor:  9 cc.
+- Gleason score:  4+3=7; see additional comment below.
+- Estimated volume of tumor > Gleason pattern 3:  70%.
+- Involvement of capsule:  None.
+     - Extraprostatic extension:  Tumor invades right seminal vesicle, but does not extend into peri-prostatic fat.
+     - Resection margin status for tumor:  Negative.
+     - Margin status for benign prostate glands:  No benign glands present at inked excision margins.
+- High-grade prostatic intraepithelial neoplasia (HGPIN):  Present, focally.
+- Tumor involvement of seminal vesicle:  Present, right side.
+- Perineural infiltration:  Present extensively.
+- Lymph node status:  Negative for tumor; total number of nodes examined:  17.
+- AJCC/UICC stage:  pT3bN0.
+- Additional Comment:  While the dominant Gleason grades are 4 and 3, there is a significant tertiary component of grade 5 tumor.
+

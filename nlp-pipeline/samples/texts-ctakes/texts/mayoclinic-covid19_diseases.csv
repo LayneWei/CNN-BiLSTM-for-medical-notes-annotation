@@ -1,0 +1,3 @@
+note_id,file_name,folder_path,canon_text,conditional,cui,hof,imputed_time,location,location_snomed_id,negated,offset_end,offset_start,range_text,vocab_term,vocab,value
+mayoclinic-covid19,mayoclinic-covid19.txt,texts/,Injury due to exposure to external cause,f,C0274281,f,na,null,null,f,98,90,exposure,71677004,SNOMEDCT_US,na
+mayoclinic-covid19,mayoclinic-covid19.txt,texts/,Injury due to exposure to external cause,f,C0274281,f,na,null,null,f,124,116,exposure,71677004,SNOMEDCT_US,na

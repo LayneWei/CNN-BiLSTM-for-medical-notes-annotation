@@ -1,0 +1,35 @@
+note_id,file_name,folder_path,canon_text,conditional,cui,hof,imputed_time,location,location_snomed_id,negated,offset_end,offset_start,range_text,vocab_term,vocab,value
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Abdominal Pain,f,C0000737,f,na,Abdomen,113345001,f,33,19,Abdominal Pain,21522001,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Chief complaint (finding),f,C0277786,f,na,null,null,f,73,64,COMPLAINT,409586006,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Abdominal Pain,f,C0000737,f,na,Abdomen,113345001,f,89,75,Abdominal pain,21522001,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Illness (finding),f,C0221423,t,na,null,null,f,147,140,ILLNESS,39104002,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Pain,f,C0030193,f,na,null,null,f,271,267,pain,22253000,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Nausea,f,C0027497,f,na,null,null,f,287,281,Nausea,422587007,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Vomiting,f,C0042963,f,na,null,null,f,298,290,Vomiting,422400008,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Diarrhea,f,C0011991,f,na,null,null,f,309,301,Diarrhea,62315008,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Constipation,f,C0009806,f,na,null,null,f,324,312,Constipation,14760008,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Loss of appetite (finding),f,C1971624,f,na,null,null,f,343,327,Loss of appetite,79890006,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Feces color: tarry,f,C0474585,f,na,null,null,f,365,346,Black/bloody stools,35064005,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Illness (finding),f,C0221423,f,na,null,null,f,372,368,Sick,39104002,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Fever with chills,f,C0085594,f,na,null,null,f,424,412,Fever/chills,274640006,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Dyspnea,f,C0013404,f,na,null,null,f,431,428,SOB,267036007,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Chest Pain,f,C0008031,f,na,Chest,51185008,f,445,435,Chest pain,29857009,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Headache,f,C0018681,f,na,Chest,51185008,f,457,449,Headache,25064002,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Dysuria,f,C0013428,f,na,null,null,f,467,460,Dysuria,49650001,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Hypersensitivity,f,C0020517,f,na,null,null,f,749,742,ALLERGY,418634005,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Social and personal history,f,C0424945,f,na,null,null,f,828,814,SOCIAL HISTORY,160476009,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Independently able,f,C1299583,f,na,null,null,f,865,854,Independent,371153006,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Smoker,f,C0337664,f,na,null,null,f,944,938,Smoker,77176002,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Exanthema,f,C0015230,f,na,null,null,t,1163,1159,rash,271807003,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Epistaxis,f,C0014591,f,na,null,null,t,1212,1203,epistaxis,249366005,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Jugular venous engorgement,f,C0425687,f,na,null,null,t,1233,1230,JVD,271653008,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Jugular venous engorgement,f,C0425687,f,na,null,null,f,1238,1235,JVD,271653008,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Rales,f,C0034642,f,na,null,null,f,1262,1254,crackles,48409008,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Wheezing,f,C0043144,f,na,null,null,f,1277,1269,wheezing,56018004,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Heart murmur,f,C0018808,f,na,null,null,f,1317,1311,murmur,414786004,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Edema,f,C0013604,f,na,null,null,t,1389,1384,edema,79654002,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Edema,f,C0013604,f,na,null,null,t,1396,1391,edema,423666004,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Esthesia,f,C0036658,f,na,null,null,f,1517,1508,SENSATION,106148006,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Laboratory test finding,f,C0587081,f,na,null,null,f,1564,1560,LABS,118246004,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Abdominal Pain,f,C0000737,f,na,Abdomen,113345001,f,1692,1678,Abdominal pain,21522001,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Pain,f,C0030193,f,na,null,null,f,1908,1904,pain,22253000,SNOMEDCT_US,na

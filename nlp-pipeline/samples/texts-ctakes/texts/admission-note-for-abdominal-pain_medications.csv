@@ -1,0 +1,14 @@
+note_id,file_name,folder_path,canon_text,conditional,cui,hof,imputed_time,location,location_snomed_id,negated,offset_end,offset_start,range_text,vocab_term,vocab,value
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Ethanol,f,C0001962,f,na,null,null,f,904,897,Alcohol,448,RXNORM,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Illicit Drugs,f,C0086190,f,na,null,null,f,963,950,Illicit drugs,77657003,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Cocaine,f,C0009170,f,na,null,null,f,976,969,cocaine,2653,RXNORM,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Heroin,f,C0011892,f,na,null,null,t,983,977,heroin,3304,RXNORM,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Marihuana,f,C0024808,f,na,null,null,t,993,984,marijuana,398705004,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Nicotinamide adenine dinucleotide (NAD),f,C0027270,f,na,null,null,f,1149,1146,NAD,131143000,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Rectal Dosage Form,f,C1272938,f,na,null,null,f,1361,1355,Rectal,385289005,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Amylases,f,C0002712,f,na,null,null,f,1591,1584,Amylase,387031005,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Lipase,f,C0023764,f,na,null,null,f,1600,1594,Lipase,72993008,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Cardiac enzymes,f,C0443763,f,na,null,null,f,1616,1601,Cardiac enzymes,259669000,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Morphine,f,C0026549,f,na,null,null,f,1882,1874,Morphine,73572009,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Contrast Media,f,C0009924,f,na,null,null,f,1981,1973,contrast,407935004,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Cytidine Monophosphate,f,C0010729,f,na,null,null,f,2007,2004,CMP,5629006,SNOMEDCT_US,na

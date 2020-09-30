@@ -1,0 +1,18 @@
+note_id,file_name,folder_path,canon_text,conditional,cui,hof,imputed_time,location,location_snomed_id,negated,offset_end,offset_start,range_text,vocab_term,vocab,value
+mayoclinic-covid19,mayoclinic-covid19.txt,texts/,Signs and Symptoms,f,C0037088,f,na,null,null,f,18,0,Signs and symptoms,404684003,SNOMEDCT_US,na
+mayoclinic-covid19,mayoclinic-covid19.txt,texts/,Incubation period,f,C1320226,f,na,null,null,f,183,166,incubation period,406646006,SNOMEDCT_US,na
+mayoclinic-covid19,mayoclinic-covid19.txt,texts/,Signs and Symptoms,f,C0037088,f,na,null,null,f,210,192,signs and symptoms,404684003,SNOMEDCT_US,na
+mayoclinic-covid19,mayoclinic-covid19.txt,texts/,Fever,f,C0015967,f,na,null,null,f,230,225,Fever,386661006,SNOMEDCT_US,na
+mayoclinic-covid19,mayoclinic-covid19.txt,texts/,Coughing,f,C0010200,f,na,null,null,f,236,231,Cough,263731006,SNOMEDCT_US,na
+mayoclinic-covid19,mayoclinic-covid19.txt,texts/,Fatigue,f,C0015672,f,na,null,null,f,246,237,Tiredness,84229001,SNOMEDCT_US,na
+mayoclinic-covid19,mayoclinic-covid19.txt,texts/,Dyspnea,f,C0013404,f,na,null,null,f,295,276,Shortness of breath,267036007,SNOMEDCT_US,na
+mayoclinic-covid19,mayoclinic-covid19.txt,texts/,Dyspnea,f,C0013404,f,na,null,null,f,319,299,difficulty breathing,230145002,SNOMEDCT_US,na
+mayoclinic-covid19,mayoclinic-covid19.txt,texts/,Myalgia,f,C0231528,f,na,Muscle,91727004,f,332,320,Muscle aches,68962001,SNOMEDCT_US,na
+mayoclinic-covid19,mayoclinic-covid19.txt,texts/,Chills,f,C0085593,f,na,null,null,f,339,333,Chills,43724002,SNOMEDCT_US,na
+mayoclinic-covid19,mayoclinic-covid19.txt,texts/,Sore Throat,f,C0242429,f,na,Pharyngeal structure,54066008,f,351,340,Sore throat,267102003,SNOMEDCT_US,na
+mayoclinic-covid19,mayoclinic-covid19.txt,texts/,Anosmia,f,C0003126,f,na,null,null,f,374,352,Loss of taste or smell,44169009,SNOMEDCT_US,na
+mayoclinic-covid19,mayoclinic-covid19.txt,texts/,Headache,f,C0018681,f,na,null,null,f,383,375,Headache,25064002,SNOMEDCT_US,na
+mayoclinic-covid19,mayoclinic-covid19.txt,texts/,Chest Pain,f,C0008031,f,na,Chest,51185008,f,394,384,Chest pain,29857009,SNOMEDCT_US,na
+mayoclinic-covid19,mayoclinic-covid19.txt,texts/,Exanthema,f,C0015230,f,na,null,null,f,486,482,rash,112625008,SNOMEDCT_US,na
+mayoclinic-covid19,mayoclinic-covid19.txt,texts/,"Nausea, vomiting and diarrhea",f,C0151791,f,na,null,null,f,517,488,"nausea, vomiting and diarrhea",2919008,SNOMEDCT_US,na
+mayoclinic-covid19,mayoclinic-covid19.txt,texts/,Illness (finding),f,C0221423,f,na,null,null,f,591,584,illness,39104002,SNOMEDCT_US,na

@@ -1,0 +1,78 @@
+note_id,file_name,folder_path,canon_text,conditional,cui,hof,imputed_time,location,location_snomed_id,negated,offset_end,offset_start,range_text,vocab_term,vocab,value
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Therapeutic radiology procedure,f,C1522449,f,na,null,null,f,186,177,Radiation,108290001,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Esophagogastroduodenoscopy,f,C0079304,f,na,null,null,f,613,610,EGD,76009000,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,colonoscopy,f,C0009378,f,na,null,null,f,627,616,Colonoscopy,73761001,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Cholecystectomy procedure,f,C0008320,f,na,null,null,f,693,678,Cholecystectomy,38102005,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Appendectomy,f,C0003611,f,na,null,null,f,713,701,Appendectomy,80146002,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Hysterectomy,f,C0020699,f,na,null,null,f,726,714,Hysterectomy,236886002,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Doppler studies,f,C0554756,f,na,null,null,f,1446,1439,Doppler,268447006,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Liver Function Tests,f,C0023901,f,na,null,null,f,1583,1580,LFT,271552009,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Plain chest X-ray,f,C0039985,f,na,null,null,f,1651,1648,CXR,399208008,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Electrocardiography,f,C1623258,f,na,null,null,f,1661,1658,EKG,46825001,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,NPO - Nothing by mouth,f,C0419179,f,na,null,null,f,1795,1792,NPO,182923009,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Fertilization in Vitro,f,C0015915,f,na,null,null,f,1817,1814,IVF,52637005,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Electrocardiography,f,C1623258,f,na,null,null,f,1853,1850,EKG,29303009,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,CT of abdomen,f,C0412620,f,na,Abdomen,277112006,f,1945,1935,CT abdomen,169070004,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Intravenous pyelogram,f,C0203108,f,na,null,null,f,2180,2177,IVP,32265006,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Intravenous pyelogram,f,C0203108,f,na,null,null,f,2226,2223,IVP,32265006,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Sulfate measurement,f,C0474702,f,na,null,null,f,2242,2235,sulfate,104948005,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Intravenous pyelogram,f,C0203108,f,na,null,null,f,2246,2243,IVP,32265006,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Radionuclide Imaging,f,C0034606,f,na,Abdomen,113345001,f,2311,2307,scan,373205008,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Ultrasonography,f,C0041618,f,na,null,null,f,2323,2313,ultrasound,359659005,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Screening for cancer,f,C0199230,f,na,null,null,f,2474,2468,screen,15886004,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Ileectomy,f,C0399935,t,na,ileum,34516001,f,2727,2700,resection of terminal ileum,51346007,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Chemotherapy,f,C3665472,f,na,ileum,34516001,f,2742,2737,chemo,363688001,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,"Joint Examination, Knee",f,C0562271,f,na,Knee,304679005,f,2951,2947,knee,284401004,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Diagnostic arthroscopy of knee,f,C0187970,f,na,Knee,304679005,f,2980,2964,knee arthroscopy,179398005,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Partial hysterectomy,f,C1270947,f,na,null,null,f,3007,2987,partial hysterectomy,387643005,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,"Joint Examination, Knee",f,C0562271,f,na,Structure of right knee,6757004,f,4492,4488,knee,284401004,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,"Joint Examination, Knee",f,C0562271,f,na,Knee,304679005,f,4583,4579,knee,284401004,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Coronary Artery Bypass Surgery,f,C0010055,t,na,null,null,f,5148,5144,CABG,67166004,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Weighing patient,f,C1305866,f,na,null,null,f,5263,5257,weight,39857003,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,"Joint Examination, Knee",f,C0562271,f,na,Structure of left knee,82169009,f,5783,5779,knee,284401004,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,"Joint Examination, Knee",f,C0562271,f,na,Knee,304679005,f,6009,6005,knee,284401004,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Enlargement procedure,f,C1293134,f,na,lymph nodes,59441001,f,6347,6339,enlarged,118452000,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Oxygen saturation measurement,f,C0523807,f,na,null,null,f,6587,6570,Oxygen Saturation,264598005,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Enlargement procedure,f,C1293134,f,na,null,null,t,7400,7389,enlargement,118452000,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Auscultation,f,C0004339,f,na,null,null,f,7435,7423,auscultation,37931006,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Palpation,f,C0030247,f,na,null,null,f,7656,7647,palpation,113011001,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Enlargement procedure,f,C1293134,f,na,Aorta,261051005,t,7737,7726,enlargement,118452000,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Palpation,f,C0030247,f,na,null,null,f,8116,8107,palpation,113011001,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Range of motion technique (procedure),f,C1562926,f,na,Limb structure,66019005,f,8489,8486,ROM,416557002,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Enlargement procedure,f,C1293134,f,na,Joints,39352004,t,8587,8576,enlargement,118452000,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Vibration - treatment,f,C0455941,f,na,null,null,f,8827,8818,vibration,271421005,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,diagnostic procedure,f,C0430022,f,na,null,null,f,9162,9152,Diagnostic,103693007,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Blood urea nitrogen measurement,f,C0005845,f,na,null,null,f,9222,9219,BUN,250623007,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Glucose measurement,f,C0337438,f,na,null,null,f,9238,9234,gluc,36048009,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Complete Blood Count,f,C0009555,f,na,null,null,f,9270,9267,CBC,26604007,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Hematocrit procedure,f,C0018935,f,na,null,null,f,9293,9290,Hct,250231008,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,"Bilirubin, total measurement",f,C0201913,f,na,null,null,f,9319,9315,Bili,359986008,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Phosphate measurement,f,C0523826,f,na,null,null,f,9349,9345,Phos,104866001,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Ultrasonography,f,C0041618,f,na,Abdomen,113345001,f,9934,9924,ultrasound,16310003,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Excision,f,C0728940,t,na,null,null,f,10230,10221,resection,65801008,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,"Joint Examination, Knee",f,C0562271,f,na,Knee,304679005,f,10469,10465,knee,284401004,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,"Joint Examination, Knee",f,C0562271,f,na,Joints,39352004,f,10497,10493,knee,284401004,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Use of cane education,f,C0204009,f,na,null,null,f,10516,10505,use of cane,7886000,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Differential Diagnosis,f,C0011906,f,na,null,null,f,11325,11303,differential diagnosis,47965005,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Diagnostic Imaging,f,C0011923,f,na,null,null,f,11641,11634,imaging,363679005,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Weighing patient,f,C1305866,f,na,null,null,f,12336,12330,weight,39857003,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,colonoscopy,f,C0009378,f,na,null,null,f,12448,12437,colonoscopy,73761001,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Biopsy,f,C0005558,f,na,Intestines,113276009,f,12470,12464,biopsy,129314006,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,"Joint Examination, Knee",f,C0562271,f,na,Knee,304679005,f,13364,13360,knee,284401004,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Diagnostic Imaging,f,C0011923,f,na,null,null,f,13559,13552,imaging,363679005,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Role playing therapy,f,C0035822,f,na,null,null,f,13720,13698,play  primarily a role,228585005,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Therapeutic immunosuppression,f,C0021079,f,na,null,null,f,13741,13724,immunosuppression,86553008,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Blood Sedimentation,f,C0005833,f,na,Erythrocytes,41898006,f,14612,14587,erythrocyte sedimentation,416560009,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Administration of enema,f,C0014268,f,na,null,null,f,16251,16245,enemas,61919008,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Decompression,f,C1829459,f,na,null,null,f,16266,16253,decompression,424128006,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,colonoscopy,f,C0009378,f,na,null,null,f,16306,16295,colonoscopy,73761001,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Interventional procedure,f,C0184661,f,na,null,null,f,16330,16321,procedure,71388002,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Reduction - action,f,C0441610,f,na,Arteries,51114001,f,16528,16519,reduction,289928003,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Evacuation procedure,f,C1282573,f,na,null,null,f,17240,17230,evacuation,122461007,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,angiogram,f,C0002978,f,na,Mesentery,89679009,f,17680,17669,angiography,77343006,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Doppler Ultrasound (procedure),f,C0162481,f,na,null,null,f,17747,17729,Doppler ultrasound,8306009,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Radionuclide Imaging,f,C0034606,f,na,null,null,f,17814,17810,scan,373205008,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Complete Blood Count,f,C0009555,f,na,null,null,f,17916,17913,CBC,26604007,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Hematocrit procedure,f,C0018935,f,na,null,null,f,17957,17947,hematocrit,28317006,SNOMEDCT_US,na
+small-acinar-carcinoma,small-acinar-carcinoma.txt,texts/,Excision,f,C0728940,f,na,Surgical margins,82868003,f,652,643,Resection,65801008,SNOMEDCT_US,na
+small-acinar-carcinoma,small-acinar-carcinoma.txt,texts/,Excision,f,C0728940,f,na,Surgical margins,82868003,f,781,773,excision,65801008,SNOMEDCT_US,na

@@ -1,0 +1,21 @@
+note_id,file_name,folder_path,canon_text,conditional,cui,hof,imputed_time,location,location_snomed_id,negated,offset_end,offset_start,range_text,vocab_term,vocab,value
+small-acinar-carcinoma,small-acinar-carcinoma.txt,texts/,Prostatic Neoplasms,f,C0033578,f,na,Prostate,279689003,f,56,41,Prostate Tumors,126906006,SNOMEDCT_US,na
+small-acinar-carcinoma,small-acinar-carcinoma.txt,texts/,Neoplasms,f,C0027651,f,na,null,null,f,72,67,tumor,108369006,SNOMEDCT_US,na
+small-acinar-carcinoma,small-acinar-carcinoma.txt,texts/,Acinar Cell Carcinoma,f,C0206685,f,na,null,null,f,102,81,acinar adenocarcinoma,45410002,SNOMEDCT_US,na
+small-acinar-carcinoma,small-acinar-carcinoma.txt,texts/,Neoplasms,f,C0027651,f,na,null,null,f,128,123,tumor,108369006,SNOMEDCT_US,na
+small-acinar-carcinoma,small-acinar-carcinoma.txt,texts/,Posterior pituitary disease,f,C0751438,f,na,null,null,f,145,136,posterior,72442006,SNOMEDCT_US,na
+small-acinar-carcinoma,small-acinar-carcinoma.txt,texts/,Adenohypophyseal Diseases,f,C0751437,f,na,null,null,f,179,171,anterior,51742006,SNOMEDCT_US,na
+small-acinar-carcinoma,small-acinar-carcinoma.txt,texts/,Posterior pituitary disease,f,C0751438,f,na,null,null,f,216,207,posterior,72442006,SNOMEDCT_US,na
+small-acinar-carcinoma,small-acinar-carcinoma.txt,texts/,Posterior pituitary disease,f,C0751438,f,na,null,null,f,248,239,posterior,72442006,SNOMEDCT_US,na
+small-acinar-carcinoma,small-acinar-carcinoma.txt,texts/,Posterior pituitary disease,f,C0751438,f,na,Structure of base of heart,60991002,f,288,279,posterior,72442006,SNOMEDCT_US,na
+small-acinar-carcinoma,small-acinar-carcinoma.txt,texts/,Adenohypophyseal Diseases,f,C0751437,f,na,null,null,f,320,312,anterior,51742006,SNOMEDCT_US,na
+small-acinar-carcinoma,small-acinar-carcinoma.txt,texts/,Neoplasms,f,C0027651,f,na,null,null,f,368,363,tumor,108369006,SNOMEDCT_US,na
+small-acinar-carcinoma,small-acinar-carcinoma.txt,texts/,Neoplasms,f,C0027651,f,na,null,null,f,459,454,tumor,108369006,SNOMEDCT_US,na
+small-acinar-carcinoma,small-acinar-carcinoma.txt,texts/,Neoplasms,f,C0027651,f,na,Structure of right seminal vesicle,74308000,f,559,554,Tumor,108369006,SNOMEDCT_US,na
+small-acinar-carcinoma,small-acinar-carcinoma.txt,texts/,Vesicle (morphologic abnormality),f,C0333262,f,na,Structure of right seminal vesicle,74308000,f,589,582,vesicle,82515000,SNOMEDCT_US,na
+small-acinar-carcinoma,small-acinar-carcinoma.txt,texts/,Neoplasms,f,C0027651,f,na,Surgical margins,82868003,f,676,671,tumor,108369006,SNOMEDCT_US,na
+small-acinar-carcinoma,small-acinar-carcinoma.txt,texts/,High-Grade Prostatic Intraepithelial Neoplasia,f,C1168327,f,na,Prostate,263847000,f,839,793,High-grade prostatic intraepithelial neoplasia,446711009,SNOMEDCT_US,na
+small-acinar-carcinoma,small-acinar-carcinoma.txt,texts/,High-Grade Prostatic Intraepithelial Neoplasia,f,C1168327,f,na,null,null,f,846,841,HGPIN,446711009,SNOMEDCT_US,na
+small-acinar-carcinoma,small-acinar-carcinoma.txt,texts/,Tumor of seminal vesicle,f,C0341767,f,na,Seminal Vesicles,64739004,f,906,870,Tumor involvement of seminal vesicle,236740006,SNOMEDCT_US,na
+small-acinar-carcinoma,small-acinar-carcinoma.txt,texts/,Neoplasms,f,C0027651,f,na,null,null,f,1019,1014,tumor,108369006,SNOMEDCT_US,na
+small-acinar-carcinoma,small-acinar-carcinoma.txt,texts/,Neoplasms,f,C0027651,f,na,null,null,f,1214,1209,tumor,108369006,SNOMEDCT_US,na

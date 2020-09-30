@@ -1,0 +1,114 @@
+note_id,file_name,folder_path,canon_text,conditional,cui,hof,imputed_time,location,location_snomed_id,negated,offset_end,offset_start,range_text,vocab_term,vocab,value
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Ethanol,f,C0001962,f,na,null,null,f,904,897,Alcohol,448,RXNORM,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Illicit Drugs,f,C0086190,f,na,null,null,f,963,950,Illicit drugs,77657003,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Cocaine,f,C0009170,f,na,null,null,f,976,969,cocaine,2653,RXNORM,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Heroin,f,C0011892,f,na,null,null,t,983,977,heroin,3304,RXNORM,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Marihuana,f,C0024808,f,na,null,null,t,993,984,marijuana,398705004,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Nicotinamide adenine dinucleotide (NAD),f,C0027270,f,na,null,null,f,1149,1146,NAD,131143000,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Rectal Dosage Form,f,C1272938,f,na,null,null,f,1361,1355,Rectal,385289005,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Amylases,f,C0002712,f,na,null,null,f,1591,1584,Amylase,387031005,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Lipase,f,C0023764,f,na,null,null,f,1600,1594,Lipase,72993008,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Cardiac enzymes,f,C0443763,f,na,null,null,f,1616,1601,Cardiac enzymes,259669000,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Morphine,f,C0026549,f,na,null,null,f,1882,1874,Morphine,73572009,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Contrast Media,f,C0009924,f,na,null,null,f,1981,1973,contrast,407935004,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Cytidine Monophosphate,f,C0010729,f,na,null,null,f,2007,2004,CMP,5629006,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Triacetoneamine-N-Oxyl,f,C0040854,f,na,null,null,f,850,847,tan,10757,RXNORM,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Water,f,C0043047,f,na,null,null,f,1261,1256,water,11295,RXNORM,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Prednisone,f,C0032952,f,na,null,null,f,1507,1497,prednisone,116602009,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Prednisone,f,C0032952,f,na,null,null,f,1659,1649,prednisone,116602009,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,mesalamine,f,C0127615,f,na,null,null,f,2053,2043,mesalamine,52582,RXNORM,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,mercaptopurine,f,C0000618,f,na,null,null,f,2069,2055,mercaptopurine,1039008,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Omega-3 Fatty Acids,f,C0015689,f,na,null,null,f,2082,2075,omega-3,4301,RXNORM,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Fentanyl,f,C0015846,f,na,null,null,f,2169,2161,fentanyl,373492002,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,"Sulfates, Inorganic",f,C0038720,f,na,null,null,f,2242,2235,sulfate,95975008,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Cocaine,f,C0009170,f,na,null,null,f,2486,2479,cocaine,14816004,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Nicotine,f,C0028040,f,na,null,null,f,3022,3014,nicotine,373462006,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Cymbalta,f,C1505021,f,na,null,null,f,3066,3058,Cymbalta,482574,RXNORM,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,fluticasone furoate,f,C1948374,f,na,null,null,f,3100,3081,Fluticasone furoate,426409006,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Nasal Spray,f,C0461725,f,na,null,null,f,3112,3101,nasal spray,385157007,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Albuterol,f,C0001927,f,na,null,null,f,3138,3129,albuterol,435,RXNORM,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Aerosol Dose Form,f,C1112870,f,na,null,null,f,3157,3150,aerosol,52262001,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Lovaza,f,C0912903,f,na,null,null,f,3175,3169,omacor,278346,RXNORM,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,mesalamine,f,C0127615,f,na,null,null,f,3197,3187,mesalamine,387501005,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Pentasa,f,C0678171,f,na,null,null,f,3205,3198,pentasa,196495,RXNORM,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Ambien,f,C0487782,f,na,null,null,f,3224,3218,Ambien,131725,RXNORM,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,fluticasone / salmeterol,f,C0939232,f,na,null,null,f,3266,3244,fluticasone/salmeterol,411106009,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Advair Diskus,f,C0939246,f,na,null,null,f,3281,3268,Advair diskus,284649,RXNORM,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Invega,f,C1828935,f,na,null,null,f,3337,3331,invega,686438,RXNORM,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Metformin,f,C0025598,f,na,null,null,f,3371,3362,metformin,6809,RXNORM,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,gabapentin,f,C0060926,f,na,null,null,f,3410,3400,gabapentin,108402001,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,"Estrogens, Conjugated (USP)",f,C0014938,f,na,null,null,f,3444,3422,conjugated g-estrogens,16832004,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Premarin,f,C0699710,f,na,null,null,f,3454,3446,premarin,202896,RXNORM,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Lisinopril,f,C0065374,f,na,null,null,f,3479,3469,lisinopril,29046,RXNORM,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Nexium,f,C0939400,f,na,null,null,f,3520,3514,nexium,284799,RXNORM,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Clonazepam,f,C0009011,f,na,null,null,f,3542,3532,clonazepam,387383007,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Penicillin,f,C0220892,f,na,null,null,f,3576,3566,Penicillin,70618,RXNORM,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Morphine,f,C0026549,f,na,null,null,f,3614,3606,morphine,373529000,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Contrast Media,f,C0009924,f,na,null,null,f,3644,3636,Contrast,407935004,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Purified Protein Derivative of Tuberculin,f,C0034131,f,na,null,null,f,3943,3940,ppd,8948,RXNORM,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Ethanol,f,C0001962,f,na,null,null,f,4070,4063,alcohol,419442005,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Crack Cocaine,f,C0085163,f,na,null,null,f,4123,4118,crack,229003004,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Cocaine,f,C0009170,t,na,null,null,f,4131,4124,cocaine,2653,RXNORM,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Crack Cocaine,f,C0085163,f,na,null,null,f,4210,4205,crack,229003004,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Illicit Drugs,f,C0086190,f,na,null,null,f,4280,4267,illicit drugs,77657003,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Vision Eye,f,C0724297,f,na,null,null,f,5360,5344,"vision loss, eye",220842,RXNORM,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Heme,f,C0018966,f,na,null,null,f,6300,6296,Heme,57813001,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Oxygen,f,C0030054,f,na,null,null,f,6576,6570,Oxygen,24099007,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Rectal Dosage Form,f,C1272938,f,na,null,null,f,8173,8167,Rectal,385289005,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Guaiac,f,C0018302,f,na,null,null,f,8214,8208,guaiac,1373150,RXNORM,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Blood Urea Nitrogen,f,C0600137,f,na,null,null,f,9222,9219,BUN,72341003,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Aspartate Transaminase,f,C0004002,f,na,null,null,f,9328,9325,AST,26091008,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Alanine Transaminase,f,C0001899,f,na,null,null,f,9336,9333,ALT,56935002,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Gamma-glutamyl transferase,f,C0017040,f,na,null,null,f,9357,9354,GGT,60153001,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Lipase,f,C0023764,f,na,null,null,f,9368,9362,Lipase,6406,RXNORM,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Air,f,C3536832,f,na,null,null,f,9519,9516,air,417696007,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Gas Dosage Form,f,C1704673,f,na,null,null,f,9556,9553,gas,1021221,RXNORM,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Nicotine,f,C0028040,f,na,null,null,f,10537,10529,nicotine,7407,RXNORM,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Crack Cocaine,f,C0085163,f,na,null,null,f,10644,10639,crack,229003004,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Cocaine,f,C0009170,f,na,null,null,f,10652,10645,cocaine,14816004,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Prednisone,f,C0032952,f,na,null,null,f,11733,11723,prednisone,116602009,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Arthritis Pain (pharmacologic preparation),f,C0718667,t,na,null,null,f,13388,13365,arthritis and back pain,215416,RXNORM,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,mesalamine,f,C0127615,f,na,null,null,f,13798,13792,5- ASA,387501005,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Sulfasalazine,f,C0036078,f,na,null,null,f,13821,13808,sulfasalazine,387248006,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,mesalamine,f,C0127615,f,na,null,null,f,13838,13828,mesalamine,387501005,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Steroids,f,C0038317,f,na,null,null,f,13850,13842,steroids,112113009,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Prednisone,f,C0032952,f,na,null,null,f,13863,13853,prednisone,116602009,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Budesonide,f,C0054201,f,na,null,null,f,13879,13869,budesonide,108622005,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Immunosuppressive Agents,f,C0021081,f,na,null,null,f,13900,13883,immunosuppressive,69431002,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Azathioprine,f,C0004482,f,na,null,null,f,13921,13909,azathioprine,1256,RXNORM,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,mercaptopurine,f,C0000618,f,na,null,null,f,13939,13925,mercaptopurine,103,RXNORM,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Methotrexate,f,C0025677,f,na,null,null,f,13953,13941,methotrexate,68887009,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,infliximab,f,C0666743,f,na,null,null,f,13986,13976,infliximab,108675009,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,adalimumab,f,C1122087,f,na,null,null,f,14001,13991,adalimumab,407317001,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Omega-3 Fatty Acids,f,C0015689,f,na,null,null,f,14012,14004,omega  3,226365003,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Antibiotics,f,C0003232,f,na,null,null,f,14051,14040,antibiotics,255631004,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Adrenal Cortex Hormones,f,C0001617,f,na,null,null,f,14210,14195,corticosteroids,21568003,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Prednisone,t,C0032952,f,na,null,null,f,14344,14334,prednisone,8640,RXNORM,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,mercaptopurine,f,C0000618,f,na,null,null,f,14806,14792,mercaptopurine,103,RXNORM,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,mesalamine,f,C0127615,f,na,null,null,f,14818,14808,mesalamine,52582,RXNORM,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Omega-3 Fatty Acids,f,C0015689,f,na,null,null,f,14831,14824,omega 3,226365003,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Guaiac,f,C0018302,f,na,null,null,f,15561,15555,guaiac,1373150,RXNORM,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Rectal Dosage Form,f,C1272938,f,na,null,null,f,16283,16277,rectal,385289005,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Lactic acid,f,C0064582,f,na,null,null,f,17900,17889,lactic acid,398659005,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Duration,f,C2926735,f,na,null,null,f,18168,18160,duration,1001007,RXNORM,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Glucose,f,C0017725,f,na,null,null,f,18337,18330,glucose,4850,RXNORM,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Glucose,f,C0017725,f,na,null,null,f,18370,18363,glucose,111138002,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Metformin,f,C0025598,f,na,null,null,f,18506,18497,metformin,6809,RXNORM,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Insulin,f,C0021641,f,na,null,null,f,18531,18524,insulin,412222002,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Glucagon-Like Peptide 1,f,C0061355,f,na,null,null,f,18677,18653,glucagon-like peptide -1,43004008,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Gastric Inhibitory Polypeptide,f,C0017132,f,na,null,null,f,18716,18684,gastric  inhibitory  polypeptide,37756007,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Insulin,f,C0021641,f,na,null,null,f,18776,18769,insulin,412222002,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Glucagon,f,C0017687,f,na,null,null,f,18807,18799,glucagon,4832,RXNORM,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Metformin,f,C0025598,f,na,null,null,f,18832,18823,Metformin,6809,RXNORM,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Biguanides,f,C0005382,f,na,null,null,f,18850,18841,biguanide,373306007,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Glucose,f,C0017725,f,na,null,null,f,18883,18876,glucose,4850,RXNORM,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Insulin,f,C0021641,f,na,null,null,f,19027,19020,insulin,67866001,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Glucose,f,C0017725,f,na,null,null,f,19050,19043,glucose,4850,RXNORM,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Lisinopril,f,C0065374,f,na,null,null,f,19152,19142,lisinopril,108575001,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,"Endoglin, human",f,C0082420,f,na,null,null,f,19343,19340,end,103160002,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Lisinopril,t,C0065374,f,na,null,null,f,19453,19443,lisinopril,386873009,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Nicotine,f,C0028040,f,na,null,null,f,19483,19475,Nicotine,68540007,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Pack,f,C1999262,f,na,null,null,f,19535,19531,pack,746839,RXNORM,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Toxin,f,C0040549,f,na,null,null,f,19587,19581,toxins,80917008,SNOMEDCT_US,na
+small-acinar-carcinoma,small-acinar-carcinoma.txt,texts/,Alkalies,f,C0002055,f,na,null,null,f,293,289,base,63813000,SNOMEDCT_US,na
+small-acinar-carcinoma,small-acinar-carcinoma.txt,texts/,Fatty acid glycerol esters,f,C0015677,f,na,null,null,f,634,631,fat,256674009,SNOMEDCT_US,na

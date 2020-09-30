@@ -1,0 +1,9 @@
+note_id,file_name,folder_path,canon_text,conditional,cui,hof,imputed_time,location,location_snomed_id,negated,offset_end,offset_start,range_text,vocab_term,vocab,value
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Esophagogastroduodenoscopy,f,C0079304,f,na,null,null,f,613,610,EGD,76009000,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,colonoscopy,f,C0009378,f,na,null,null,f,627,616,Colonoscopy,73761001,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Doppler studies,f,C0554756,f,na,null,null,f,1446,1439,Doppler,268447006,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Liver Function Tests,f,C0023901,f,na,null,null,f,1583,1580,LFT,271552009,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Plain chest X-ray,f,C0039985,f,na,null,null,f,1651,1648,CXR,399208008,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Electrocardiography,f,C1623258,f,na,null,null,f,1661,1658,EKG,46825001,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Electrocardiography,f,C1623258,f,na,null,null,f,1853,1850,EKG,29303009,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,CT of abdomen,f,C0412620,f,na,null,null,f,1945,1935,CT abdomen,169070004,SNOMEDCT_US,na

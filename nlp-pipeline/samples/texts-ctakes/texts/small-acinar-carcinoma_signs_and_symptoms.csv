@@ -1,0 +1,6 @@
+note_id,file_name,folder_path,canon_text,conditional,cui,hof,imputed_time,location,location_snomed_id,negated,offset_end,offset_start,range_text,vocab_term,vocab,value
+small-acinar-carcinoma,small-acinar-carcinoma.txt,texts/,Gleason Pattern 3 (finding),f,C1276441,f,na,null,null,f,479,462,Gleason pattern 3,369772003,SNOMEDCT_US,na
+small-acinar-carcinoma,small-acinar-carcinoma.txt,texts/,Tumor margin status,f,C1269830,f,na,Surgical margins,82868003,f,659,653,margin,372249001,SNOMEDCT_US,na
+small-acinar-carcinoma,small-acinar-carcinoma.txt,texts/,Tumor margin status,f,C1269830,f,na,Surgical margins,82868003,f,702,696,Margin,372249001,SNOMEDCT_US,na
+small-acinar-carcinoma,small-acinar-carcinoma.txt,texts/,Infiltration,f,C0332448,f,na,null,null,f,955,943,infiltration,47351003,SNOMEDCT_US,na
+small-acinar-carcinoma,small-acinar-carcinoma.txt,texts/,Death Related to Adverse Event,f,C1705232,f,na,null,null,f,1208,1201,grade 5,446451000124100,SNOMEDCT_US,na

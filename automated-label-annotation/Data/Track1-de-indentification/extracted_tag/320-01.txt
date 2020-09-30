@@ -1,0 +1,36 @@
+<DATE id="P0" start="16" end="26" text="2080-03-13" TYPE="DATE" comment="" />
+<NAME id="P1" start="32" end="43" text="Louise Iles" TYPE="PATIENT" comment="" />
+<AGE id="P2" start="49" end="51" text="70" TYPE="AGE" comment="" />
+<NAME id="P3" start="83" end="86" text="Xue" TYPE="DOCTOR" comment="" />
+<DATE id="P4" start="159" end="162" text="Feb" TYPE="DATE" comment="" />
+<DATE id="P6" start="1497" end="1502" text="2060s" TYPE="DATE" comment="" />
+<DATE id="P7" start="1576" end="1581" text="2060s" TYPE="DATE" comment="" />
+<LOCATION id="P8" start="1632" end="1646" text="UNITED KINGDOM" TYPE="COUNTRY" comment="" />
+<DATE id="P9" start="1831" end="1835" text="2068" TYPE="DATE" comment="" />
+<DATE id="P10" start="1849" end="1855" text="2/2080" TYPE="DATE" comment="" />
+<DATE id="P12" start="1992" end="1996" text="2067" TYPE="DATE" comment="" />
+<DATE id="P13" start="2007" end="2011" text="2067" TYPE="DATE" comment="" />
+<DATE id="P14" start="2016" end="2020" text="2080" TYPE="DATE" comment="" />
+<DATE id="P15" start="2381" end="2391" text="02/15/2080" TYPE="DATE" comment="" />
+<DATE id="P16" start="2583" end="2593" text="02/15/2080" TYPE="DATE" comment="" />
+<DATE id="P17" start="2636" end="2646" text="02/15/2080" TYPE="DATE" comment="" />
+<DATE id="P18" start="2733" end="2743" text="02/15/2080" TYPE="DATE" comment="" />
+<DATE id="P19" start="2752" end="2762" text="02/15/2080" TYPE="DATE" comment="" />
+<DATE id="P20" start="2830" end="2840" text="02/15/2080" TYPE="DATE" comment="" />
+<DATE id="P21" start="2851" end="2861" text="02/15/2080" TYPE="DATE" comment="" />
+<LOCATION id="P22" start="3110" end="3126" text="HMH LABORATORIES" TYPE="ORGANIZATION" comment="" />
+<LOCATION id="P23" start="3128" end="3147" text="382 Farmington Road" TYPE="STREET" comment="" />
+<LOCATION id="P24" start="3148" end="3160" text="Mount Morris" TYPE="CITY" comment="" />
+<LOCATION id="P25" start="3162" end="3164" text="AK" TYPE="STATE" comment="" />
+<LOCATION id="P26" start="3165" end="3170" text="34712" TYPE="ZIP" comment="" />
+<ID id="P27" start="3193" end="3201" text="13929520" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P28" start="3278" end="3288" text="02/15/2080" TYPE="DATE" comment="" />
+<ID id="P29" start="3306" end="3311" text="DNSW2" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P30" start="3331" end="3341" text="Xue, Laura" TYPE="DOCTOR" comment="" />
+<NAME id="P31" start="4025" end="4044" text="Querry, Lucas Edwin" TYPE="DOCTOR" comment="" />
+<NAME id="P32" start="4061" end="4080" text="Querry, Lucas Edwin" TYPE="DOCTOR" comment="" />
+<DATE id="P34" start="4659" end="4663" text="2/80" TYPE="DATE" comment="" />
+<DATE id="P35" start="4682" end="4685" text="feb" TYPE="DATE" comment="" />
+<LOCATION id="P36" start="4755" end="4766" text="Mississippi" TYPE="STATE" comment="" />
+<DATE id="P37" start="5098" end="5103" text="April" TYPE="DATE" comment="" />
+<DATE id="P38" start="5162" end="5166" text="2/80" TYPE="DATE" comment="" />

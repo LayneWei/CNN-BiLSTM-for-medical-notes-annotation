@@ -1,0 +1,20 @@
+<DATE id="P0" start="16" end="26" text="2072-03-08" TYPE="DATE" comment="" />
+<DATE id="P1" start="33" end="40" text="3/08/72" TYPE="DATE" comment="" />
+<NAME id="P3" start="96" end="111" text="Joiner, Caitlin" TYPE="PATIENT" comment="" />
+<ID id="P4" start="135" end="144" text="304 10 38" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P6" start="176" end="183" text="3/07/72" TYPE="DATE" comment="" />
+<NAME id="P7" start="205" end="213" text="Yan Ball" TYPE="DOCTOR" comment="" />
+<NAME id="P8" start="232" end="245" text="Nathan France" TYPE="DOCTOR" comment="" />
+<AGE id="P9" start="305" end="307" text="56" TYPE="AGE" comment="" />
+<DATE id="P10" start="889" end="893" text="6/71" TYPE="DATE" comment="" />
+<DATE id="P11" start="1260" end="1264" text="1/72" TYPE="DATE" comment="" />
+<NAME id="P12" start="1992" end="2001" text="Quintanar" TYPE="DOCTOR" comment="" />
+<DATE id="P13" start="2020" end="2024" text="1/71" TYPE="DATE" comment="" />
+<DATE id="P14" start="2053" end="2057" text="6/71" TYPE="DATE" comment="" />
+<DATE id="P15" start="2139" end="2143" text="6/71" TYPE="DATE" comment="" />
+<LOCATION id="P16" start="2495" end="2506" text="Estherville" TYPE="CITY" comment="" />
+<PROFESSION id="P17" start="2519" end="2529" text="Translator" TYPE="PROFESSION" comment="" />
+<AGE id="P18" start="8523" end="8525" text="56" TYPE="AGE" comment="" />
+<NAME id="P19" start="9428" end="9437" text="Quintanar" TYPE="DOCTOR" comment="" />
+<NAME id="P20" start="10117" end="10130" text="Nathan France" TYPE="DOCTOR" comment="" />
+<CONTACT id="P21" start="10143" end="10148" text="47980" TYPE="PHONE" comment="" />

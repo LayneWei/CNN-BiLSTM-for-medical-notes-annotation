@@ -1,0 +1,3 @@
+note_id,file_name,folder_path,canon_text,conditional,cui,hof,imputed_time,location,location_snomed_id,negated,offset_end,offset_start,range_text,vocab_term,vocab,value
+small-acinar-carcinoma,small-acinar-carcinoma.txt,texts/,Excision,f,C0728940,f,na,Surgical margins,82868003,f,652,643,Resection,65801008,SNOMEDCT_US,na
+small-acinar-carcinoma,small-acinar-carcinoma.txt,texts/,Excision,f,C0728940,f,na,Surgical margins,82868003,f,781,773,excision,65801008,SNOMEDCT_US,na

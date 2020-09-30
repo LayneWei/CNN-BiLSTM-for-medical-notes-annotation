@@ -1,0 +1,334 @@
+note_id,file_name,folder_path,canon_text,conditional,cui,hof,imputed_time,location,location_snomed_id,negated,offset_end,offset_start,range_text,vocab_term,vocab,value
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Abdominal Pain,f,C0000737,f,na,Abdomen,113345001,f,33,19,Abdominal Pain,21522001,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Chief complaint (finding),f,C0277786,f,na,null,null,f,73,64,COMPLAINT,409586006,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Abdominal Pain,f,C0000737,f,na,Abdomen,113345001,f,89,75,Abdominal pain,21522001,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Illness (finding),f,C0221423,t,na,null,null,f,147,140,ILLNESS,39104002,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Pain,f,C0030193,f,na,null,null,f,271,267,pain,22253000,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Nausea,f,C0027497,f,na,null,null,f,287,281,Nausea,422587007,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Vomiting,f,C0042963,f,na,null,null,f,298,290,Vomiting,422400008,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Diarrhea,f,C0011991,f,na,null,null,f,309,301,Diarrhea,62315008,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Constipation,f,C0009806,f,na,null,null,f,324,312,Constipation,14760008,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Loss of appetite (finding),f,C1971624,f,na,null,null,f,343,327,Loss of appetite,79890006,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Feces color: tarry,f,C0474585,f,na,null,null,f,365,346,Black/bloody stools,35064005,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Illness (finding),f,C0221423,f,na,null,null,f,372,368,Sick,39104002,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Fever with chills,f,C0085594,f,na,null,null,f,424,412,Fever/chills,274640006,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Dyspnea,f,C0013404,f,na,null,null,f,431,428,SOB,267036007,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Chest Pain,f,C0008031,f,na,Chest,51185008,f,445,435,Chest pain,29857009,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Headache,f,C0018681,f,na,Chest,51185008,f,457,449,Headache,25064002,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Dysuria,f,C0013428,f,na,null,null,f,467,460,Dysuria,49650001,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Hypersensitivity,f,C0020517,f,na,null,null,f,749,742,ALLERGY,418634005,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Social and personal history,f,C0424945,f,na,null,null,f,828,814,SOCIAL HISTORY,160476009,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Independently able,f,C1299583,f,na,null,null,f,865,854,Independent,371153006,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Smoker,f,C0337664,f,na,null,null,f,944,938,Smoker,77176002,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Exanthema,f,C0015230,f,na,null,null,t,1163,1159,rash,271807003,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Epistaxis,f,C0014591,f,na,null,null,t,1212,1203,epistaxis,249366005,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Jugular venous engorgement,f,C0425687,f,na,null,null,t,1233,1230,JVD,271653008,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Jugular venous engorgement,f,C0425687,f,na,null,null,f,1238,1235,JVD,271653008,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Rales,f,C0034642,f,na,null,null,f,1262,1254,crackles,48409008,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Wheezing,f,C0043144,f,na,null,null,f,1277,1269,wheezing,56018004,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Heart murmur,f,C0018808,f,na,null,null,f,1317,1311,murmur,414786004,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Edema,f,C0013604,f,na,null,null,t,1389,1384,edema,79654002,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Edema,f,C0013604,f,na,null,null,t,1396,1391,edema,423666004,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Esthesia,f,C0036658,f,na,null,null,f,1517,1508,SENSATION,106148006,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Laboratory test finding,f,C0587081,f,na,null,null,f,1564,1560,LABS,118246004,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Abdominal Pain,f,C0000737,f,na,Abdomen,113345001,f,1692,1678,Abdominal pain,21522001,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Pain,f,C0030193,f,na,null,null,f,1908,1904,pain,22253000,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Chief complaint (finding),f,C0277786,f,na,null,null,f,93,84,Complaint,409586006,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Abdominal Pain,f,C0000737,f,na,Abdomen,113345001,f,110,96,abdominal pain,21522001,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Illness (finding),f,C0221423,t,na,null,null,f,138,131,Illness,39104002,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Severe pain,f,C0278140,f,na,Abdomen,113345001,f,288,267,severe abdominal pain,76948002,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,"Nausea, vomiting and diarrhea",f,C0151791,f,na,null,null,f,320,290,"nausea, vomiting, and diarrhea",2919008,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Sharp pain,f,C0455270,f,na,Abdomen,277112006,f,452,426,sharp lower abdominal pain,8708008,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Pain,f,C0030193,f,na,null,null,f,506,502,pain,22253000,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Chronic pain,f,C0150055,f,na,Abdomen,277112006,f,593,571,chronic abdominal pain,82423001,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Pain,f,C0030193,f,na,null,null,f,667,663,pain,22253000,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Actual Discomfort,f,C2364135,f,na,null,null,f,744,734,discomfort,247347003,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Abdominal Pain,f,C0000737,f,na,Abdomen,113345001,f,764,750,abdominal pain,21522001,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Diarrhea,f,C0011991,f,na,null,null,f,822,814,diarrhea,267060006,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Soft stool (finding),f,C0577115,f,na,null,null,f,837,827,soft stool,27731006,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Abdominal Pain,f,C0000737,f,na,Abdomen,113345001,f,903,889,abdominal pain,21522001,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Nausea,f,C0027497,f,na,null,null,f,938,932,nausea,422587007,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Sleep,f,C0037313,f,na,null,null,f,1001,996,sleep,258158006,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Abdominal Pain,f,C0000737,f,na,Abdomen,113345001,f,1032,1018,abdominal pain,21522001,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Nausea,f,C0027497,f,na,null,null,f,1112,1106,nausea,422587007,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,"Diarrhea and vomiting, symptom",f,C0474496,f,na,null,null,f,1177,1156,diarrhea or  vomiting,249519007,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Fear (Mental Process),f,C0015726,f,na,null,null,f,1220,1216,fear,1402001,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Vomiting,f,C0042963,f,na,null,null,f,1232,1224,vomiting,249497008,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Able (finding),f,C1299581,f,na,null,null,f,1246,1242,able,371150009,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Night pain,f,C0234255,f,na,null,null,f,1313,1298,"night, her pain",36163009,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Hemoptysis,f,C0019079,f,na,null,null,t,1864,1854,hemoptysis,66857006,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Constipation,f,C0009806,f,na,null,null,t,1878,1866,constipation,14760008,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Hematochezia,f,C0018932,f,na,null,null,f,1892,1880,hematochezia,405729008,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Melena,f,C0025222,f,na,null,null,t,1901,1895,melena,2901004,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Defecation,f,C0011135,f,na,Intestines,261093006,f,1934,1922,bowel habits,39211005,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Pain,f,C0030193,f,na,null,null,f,2391,2387,pain,22253000,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Pain,f,C0030193,f,na,null,null,f,2429,2425,pain,22253000,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Obstruction,f,C0028778,f,na,Intestines,113276009,f,2783,2772,obstruction,26036001,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Stress,f,C0038435,f,na,null,null,f,2870,2864,stress,262188008,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Suicide attempt,f,C0038663,t,na,null,null,f,2928,2912,suicide attempts,82313006,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Inspiration function,f,C0004048,f,na,null,null,f,3149,3139,inhalation,14910006,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Hypersensitivity,f,C0020517,f,na,null,null,f,3564,3555,Allergies,421961002,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Exanthema,f,C0015230,f,na,null,null,f,3589,3585,rash,271807003,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,anaphylaxis,f,C0002792,f,na,null,null,f,3605,3594,anaphylaxis,39579001,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Pruritus,f,C0033774,f,na,null,null,f,3630,3623,itching,279333002,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Tachycardia,f,C0039231,f,na,null,null,f,3664,3653,tachycardia,86651002,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Social and personal history,f,C0424945,f,na,null,null,f,3680,3666,Social History,160476009,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Disability,f,C0231170,f,na,null,null,f,3820,3810,disability,21134002,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Illness (finding),f,C0221423,f,na,null,null,f,3905,3901,sick,39104002,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Physically active,f,C0556453,f,na,null,null,t,4323,4306,physically active,228447005,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Chronic abdominal pain,f,C0232491,f,na,Abdomen,277112006,f,4437,4415,chronic abdominal pain,111985007,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Low Back Pain,f,C0024031,f,na,Knee,304679005,f,4512,4497,lower back pain,279039007,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Falls,f,C0085639,f,na,null,null,f,4524,4520,fall,1912002,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Knee pain,f,C0231749,f,na,Knee,304679005,f,4597,4579,knee and back pain,30989003,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Pain,f,C0030193,f,na,null,null,f,4771,4767,pain,22253000,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,After pains,f,C0423732,f,na,null,null,f,4838,4815,after breaking her pain,247414008,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Pain,f,C0030193,f,na,null,null,f,4921,4917,pain,22253000,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Cessation of life,f,C0011065,f,na,null,null,f,5107,5102,death,419620001,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Weight decreased,f,C1262477,f,na,null,null,f,5268,5257,weight loss,161832001,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,"Hearing Loss, Partial",f,C0018772,f,na,null,null,f,5300,5283,decreased hearing,343087000,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Blurred vision,f,C0344232,f,na,null,null,t,5309,5301,blurring,111516008,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Diplopia,f,C0012569,f,na,null,null,t,5319,5311,diplopia,24982008,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Visual Impairment,f,C3665347,f,na,null,null,f,5355,5344,vision loss,397540003,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Earache,f,C0013456,f,na,Eye,81745001,f,5384,5361,"pain,  photophobia, ear",162356005,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Pain,f,C0030193,f,na,Ear structure,117590005,f,5389,5385,pain,22253000,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Tinnitus,f,C0040264,f,na,null,null,f,5412,5404,tinnitus,162349004,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Rhinorrhea,f,C1260880,f,na,Nose,260540009,f,5444,5414,nasal obstruction or discharge,397746007,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Sore Throat,f,C0242429,f,na,Pharyngeal structure,54066008,f,5470,5458,sore  throat,162397003,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Hoarseness,f,C0019825,f,na,Pharyngeal structure,54066008,f,5482,5472,hoarseness,50219008,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Dyspnea on exertion,f,C0231807,f,na,null,null,f,5529,5510,dyspnea on exertion,60845006,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Chest Pain,f,C0008031,f,na,Chest,51185008,t,5549,5538,chest pains,29857009,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Palpitations,f,C0030252,f,na,null,null,f,5563,5551,palpitations,80313002,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Syncope,f,C0039070,f,na,null,null,f,5572,5565,syncope,309585006,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Orthopnea,f,C0085619,f,na,null,null,f,5583,5574,orthopnea,62744007,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Edema,f,C0013604,f,na,null,null,f,5596,5591,edema,79654002,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Coughing,f,C0010200,f,na,null,null,f,5622,5617,cough,272039006,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Wheezing,f,C0043144,f,na,null,null,t,5635,5627,wheezing,56018004,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Icterus,f,C0022346,f,na,null,null,f,5669,5661,jaundice,18165001,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Dysuria,f,C0013428,f,na,null,null,t,5713,5706,dysuria,49650001,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Hematuria,f,C0018965,f,na,null,null,t,5724,5715,hematuria,34436003,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Increased frequency of micturition,f,C0042023,f,na,null,null,f,5743,5726,urinary frequency,300471006,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Back Pain,f,C0004604,f,na,Lower back structure,37822005,f,5806,5788,pain in lower back,161891005,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Pain,f,C0030193,f,na,Lower back structure,37822005,f,5811,5807,pain,22253000,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Joint swelling,f,C0152031,f,na,Joints,39352004,f,5872,5858,joint swelling,271771009,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Muscle Cramp,f,C0026821,f,na,null,null,f,5887,5881,cramps,55300003,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Muscular stiffness,f,C0221170,f,na,Muscle,91727004,f,5915,5889,"muscle weakness, stiffness",16046003,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Exanthema,f,C0015230,f,na,null,null,f,5934,5930,rash,271807003,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Lesion,f,C0221198,f,na,null,null,f,5963,5956,lesions,52988006,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Weakness,f,C3714552,f,na,Structure of left knee,82169009,f,5992,5984,weakness,13791008,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Paralysed,f,C0522224,f,na,null,null,t,6037,6028,paralysis,44695005,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Seizures,f,C0036572,f,na,null,null,f,6061,6053,seizures,91175000,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Syncope,f,C0039070,f,na,null,null,f,6071,6064,syncope,309585006,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Tremor,f,C0040822,f,na,null,null,t,6080,6073,tremors,26079004,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Vertigo,f,C0042571,f,na,null,null,f,6089,6082,vertigo,399090003,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Memory,f,C0025260,f,na,null,null,f,6137,6131,memory,303116000,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Feeling suicidal (finding),f,C0424000,f,na,null,null,f,6181,6164,suicidal ideation,6471006,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Cold intolerance,f,C0009269,f,na,null,null,t,6261,6227,"cold intolerance, heat intolerance",80585000,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Polydipsia,f,C0085602,f,na,null,null,f,6273,6263,polydipsia,267026004,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Hyperphagia,f,C0020505,f,na,null,null,f,6285,6275,polyphagia,267023007,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Polyuria,f,C0032617,f,na,null,null,f,6295,6287,polyuria,56574000,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Hemorrhage,f,C0019080,f,na,null,null,f,6337,6329,bleeding,131148009,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Lymphadenopathy,f,C0497156,f,na,lymph nodes,59441001,f,6359,6339,enlarged lymph nodes,30746006,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Fever,f,C0015967,f,na,null,null,t,6409,6404,fever,386661006,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Blood Pressure,f,C0005823,f,na,Blood,87612001,f,6560,6546,Blood Pressure,75367002,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Pain score,f,C0582148,f,na,null,null,f,6610,6600,Pain Score,225908003,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Drowsiness,f,C0013144,f,na,null,null,f,6641,6635,sleepy,271782001,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Oriented to place,f,C1961028,f,na,null,null,f,6654,6646,oriented,427161009,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Pupils equal,f,C0578617,f,na,Pupil,392406005,f,6722,6710,pupils equal,301943000,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Sharp sensation quality,f,C1444775,f,na,null,null,f,6781,6776,sharp,410707003,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Hemorrhage,f,C0019080,f,na,null,null,f,6819,6808,hemorrhages,131148009,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Normal visual acuity,f,C0234631,f,na,null,null,f,6854,6834,normal visual acuity,82132006,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Lesion,f,C0221198,f,na,null,null,t,6906,6899,lesions,52988006,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Nose normal,f,C0577884,f,na,Nose,260540009,f,6943,6932,nose normal,301198009,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Lesion,f,C0221198,f,na,null,null,t,6955,6948,lesions,52988006,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Movement,f,C0026649,f,na,null,null,f,7043,7035,movement,255324009,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Hearing examination finding,f,C1455844,f,na,null,null,f,7062,7055,hearing,118230007,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Tongue normal,f,C0576974,f,na,Tongue,21974007,f,7250,7237,tongue normal,300249003,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Sore to touch,f,C0234233,f,na,null,null,t,7384,7374,tenderness,71393004,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Vocal fremitus finding,f,C0231891,f,na,null,null,f,7472,7456,tactile fremitus,364061003,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Egophony,f,C0231872,f,na,null,null,t,7485,7477,egophony,19977002,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Respiratory effort,f,C0425466,f,na,null,null,t,7512,7494,respiratory effort,248565000,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Heart murmur,f,C0018808,f,na,null,null,t,7596,7590,murmur,88610006,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Cardiac thrill (finding),f,C0232269,f,na,null,null,t,7623,7617,thrill,271656000,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Heart murmur,f,C0018808,f,na,null,null,t,7643,7636,murmurs,414786004,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Jugular venous engorgement,f,C0425687,f,na,null,null,t,7665,7662,JVD,271653008,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Psychologic Displacement,f,C0012725,f,na,null,null,t,7682,7670,displacement,286668001,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Carotid bruit,f,C0007280,f,na,Abdomen,113345001,t,7721,7694,carotid or abdominal bruits,419642000,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Pedal pulse,f,C0232157,f,na,Tibialis posterior muscle structure,74318005,f,7812,7800,pedal pulses,null,sno_rx_16ab,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Symmetrical,f,C0332516,f,na,null,null,f,7825,7816,symmetric,255473004,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Edema,f,C0013604,f,na,null,null,t,7835,7830,edema,79654002,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Cicatrix,f,C2004491,f,na,Surgical scar,63130001,f,7878,7874,scar,48677004,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Abdominal mass,f,C0000734,f,na,Abdomen,277112006,f,7945,7923,abdomen with no masses,271860004,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Hyperactive bowel sounds,f,C0232694,f,na,Intestines,256876008,f,7972,7948,bowel sounds hyperactive,18101008,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Morphology within normal limits,f,C1265570,f,na,null,null,t,8013,7993,within normal limits,125112009,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Pain and tenderness,f,C0234242,f,na,null,null,f,8103,8084,pain and tenderness,37226004,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Splenomegaly,f,C0038002,f,na,null,null,t,8165,8153,splenomegaly,16294009,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Exanthema,f,C0015230,f,na,null,null,t,8188,8182,rashes,271807003,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Lesion,f,C0221198,f,na,null,null,t,8197,8190,lesions,52988006,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Fecal occult blood: positive,f,C0266813,f,na,null,null,f,8229,8208,guaiac positive stool,59614000,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Posterior auricular lymphadenopathy,f,C1264051,f,na,null,null,t,8306,8271,posterior auricular lymphadenopathy,127077006,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Exanthema,f,C0015230,f,na,null,null,t,8320,8316,rash,112625008,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Lesion,f,C0221198,f,na,null,null,f,8329,8322,lesions,52988006,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Subcutaneous nodule,f,C0151811,f,na,null,null,t,8364,8344,subcutaneous nodules,95325000,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Induration,f,C0332534,f,na,null,null,t,8378,8368,induration,45147008,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Mobility as a finding,f,C0425245,f,na,null,null,f,8422,8414,mobility,363803005,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Deformity of neck,f,C0575167,f,na,Neck,45048000,t,8456,8430,deformity of head and neck,298390003,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Joint non-tender,f,C0575030,f,na,Joints,39352004,t,8602,8567,no joint enlargement  or tenderness,298252007,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Clubbing,f,C0149651,f,na,null,null,t,8615,8607,clubbing,367004,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Cyanosis,f,C0010520,f,na,null,null,t,8625,8617,cyanosis,3415004,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Gait,f,C0016928,f,na,null,null,f,8672,8668,gait,63448001,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Symmetrical,f,C0332516,f,na,null,null,f,8784,8775,symmetric,255473004,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Reflex action,f,C0034929,f,na,null,null,f,8794,8786,reflexes,87572000,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Touch sensation,f,C0702221,f,na,null,null,f,8811,8806,touch,397624008,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Pronator drift,f,C1504476,f,na,Nose,45206002,f,8915,8901,Pronator drift,428334004,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Mental state,f,C0278060,f,na,null,null,f,8987,8974,Mental Status,36456004,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Judgment,f,C0022423,f,na,null,null,f,9001,8993,Judgment,61254005,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Insight,f,C0233820,f,na,null,null,f,9013,9006,insight,27026000,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Memory,f,C0025260,f,na,null,null,f,9072,9066,memory,303116000,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Agitation,f,C0085631,f,na,null,null,t,9140,9131,agitation,24199005,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Laboratory test finding,f,C0587081,f,na,null,null,f,9180,9176,LABS,118246004,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,effusion,f,C0013687,f,na,null,null,t,9461,9453,effusion,41699000,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Obstruction,f,C0028778,f,na,"Intestines, Small",30315005,f,9597,9586,obstruction,26036001,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Thickened,f,C0205400,f,na,Colon structure (body structure),263977005,f,9650,9640,thickening,89977008,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Thickened,f,C0205400,f,na,ileum,34516001,f,9832,9822,thickening,263899003,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Obstruction,f,C0028778,f,na,Intestines,256876008,t,9855,9844,obstruction,26036001,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Problem,f,C0033213,f,na,null,null,f,10110,10103,Problem,55607006,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Abdominal Pain,f,C0000737,f,na,Abdomen,113345001,f,10153,10139,abdominal pain,21522001,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Nausea,f,C0027497,f,na,null,null,f,10161,10155,nausea,422587007,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,"Diarrhea and vomiting, symptom",f,C0474496,f,na,null,null,f,10181,10163,"vomiting, diarrhea",249519007,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Obstruction,f,C0028778,f,na,"Intestines, Small",30315005,f,10265,10254,obstruction,26036001,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Stress,f,C0038435,f,na,null,null,f,10363,10357,stress,262188008,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Suicide attempt,f,C0038663,t,na,null,null,f,10421,10405,suicide attempts,82313006,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Sleeplessness,f,C0917801,f,na,null,null,f,10430,10422,insomnia,193462001,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Knee pain,f,C0231749,f,na,Knee,304679005,f,10474,10465,knee pain,30989003,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Walking (activity),f,C0080331,f,na,null,null,f,10528,10521,walking,129006008,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Victim of abuse finding,f,C0562381,f,na,null,null,f,10558,10553,abuse,386702006,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Victim of abuse finding,f,C0562381,f,na,null,null,f,10671,10666,abuse,386702006,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Victim of abuse finding,f,C0562381,f,na,null,null,f,10686,10681,abuse,386702006,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Acute onset pain,f,C0184567,f,na,Abdomen,113345001,f,10914,10894,acute abdominal pain,274663001,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,"Nausea, vomiting and diarrhea",f,C0151791,f,na,null,null,f,10946,10916,"nausea, vomiting, and diarrhea",2919008,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Abdominal Pain,f,C0000737,f,na,Abdomen,277112006,f,11037,11023,abdominal pain,21522001,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,"Nausea, vomiting and diarrhea",f,C0151791,f,na,null,null,f,11073,11043,"nausea, vomiting, and diarrhea",2919008,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Acute abdominal pain,f,C0740577,f,na,Abdomen,113345001,f,11133,11102,acute  diffuse  abdominal  pain,116290004,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,"Nausea, vomiting and diarrhea",f,C0151791,f,na,null,null,f,11191,11160,"nausea,  vomiting, and diarrhea",2919008,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Pain,f,C0030193,f,na,null,null,f,11202,11198,pain,22253000,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Chronic pain,f,C0150055,f,na,null,null,f,11247,11235,chronic pain,82423001,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Obstruction,f,C0028778,f,na,null,null,f,11469,11458,obstruction,26036001,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Infarction,f,C0021308,f,na,Mesentery,261130005,f,11513,11503,infarction,55641003,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Abdominal Pain,f,C0000737,f,na,Abdomen,113345001,f,11539,11525,abdominal pain,21522001,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Inflammation,f,C0021368,f,na,Gastrointestinal tract structure,51289009,f,11911,11899,inflammation,23583003,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Severe pain,f,C0278140,f,na,Abdomen,277112006,f,12000,11979,severe abdominal pain,76948002,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Hemorrhage,f,C0019080,f,na,null,null,f,12010,12002,bleeding,131148009,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Perforation (observation),f,C0549099,f,na,null,null,f,12047,12036,perforation,263837003,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Asymptomatic,f,C0231221,f,na,null,null,f,12257,12245,asymptomatic,84387000,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Weight decreased,f,C1262477,f,na,null,null,f,12342,12330,weight  loss,89362005,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Fever,f,C0015967,f,na,null,null,f,12349,12344,fever,386661006,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Nausea,f,C0027497,f,na,null,null,f,12357,12351,nausea,422587007,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Anal pain,f,C0238637,f,na,Anus,53505006,f,12393,12369,"pain, diarrhea, and anal",68653001,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Hemorrhage,f,C0019080,f,na,Anus,53505006,f,12402,12394,bleeding,50960005,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Ulceration,f,C3887532,f,na,null,null,f,12614,12604,ulceration,263913002,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Inflammation,f,C0021368,f,na,Tunica submucosa,68439008,f,12772,12760,inflammation,257552002,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Perforation (observation),f,C0549099,f,na,null,null,f,12907,12895,perforations,263837003,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Mental association,f,C0004083,f,na,null,null,f,12938,12927,association,263534001,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Thromboembolism,f,C0040038,f,na,Arteries,51114001,f,13295,13280,thromboembolism,13713005,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Back Pain,f,C0004604,f,na,null,null,f,13388,13379,back pain,161891005,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Feeling relief,f,C0564405,f,na,null,null,f,14269,14263,relief,224978009,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Inflammation,f,C0021368,f,na,null,null,f,14289,14277,inflammation,257552002,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,"Diarrhea and vomiting, symptom",f,C0474496,f,na,null,null,f,14494,14473,vomiting and diarrhea,275297005,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Nausea,f,C0027497,f,na,null,null,f,14535,14529,nausea,422587007,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,erythrocyte sedimentation rate result,f,C1619634,f,na,Erythrocytes,41898006,f,14617,14587,erythrocyte sedimentation rate,365649001,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Inflammation,f,C0021368,f,na,null,null,f,14687,14675,inflammation,23583003,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Obstruction,f,C0028778,f,na,"Intestines, Small",264196002,f,14878,14867,obstruction,26036001,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Obstruction,f,C0028778,f,na,null,null,f,14979,14972,blocked,26036001,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Complication,f,C0009566,f,na,null,null,f,15044,15031,complications,116223007,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Stenosis,f,C1261287,f,na,null,null,f,15093,15083,strictures,415582006,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Constipation,f,C0009806,f,na,null,null,f,15132,15120,constipation,14760008,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Abdomen distended,f,C0000731,f,na,Abdomen,277112006,f,15192,15165,abdominal pain and bloating,41931001,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Nausea,f,C0027497,f,na,null,null,f,15200,15194,nausea,422587007,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Vomiting,f,C0042963,f,na,null,null,f,15210,15202,vomiting,300359004,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Constipation,f,C0009806,f,na,null,null,f,15228,15216,constipation,14760008,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Decrease in appetite,f,C0232462,f,na,null,null,f,15249,15232,reduced  appetite,64379006,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Feelings,f,C1527305,f,na,null,null,f,15266,15259,feeling,285854004,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Abdomen distended,f,C0000731,f,na,Abdomen,277112006,f,15304,15284,abdominal distention,60728008,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Able (finding),f,C1299581,f,na,null,null,f,15331,15327,able,371150009,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Not constipated,f,C0426638,f,na,null,null,f,15401,15386,not constipated,162081000,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Dilated,f,C0700124,f,na,null,null,f,15425,15416,distended,255381004,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Obstruction,t,C0028778,f,na,Intestines,256876008,f,15480,15469,obstruction,26036001,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Obstruction,f,C0028778,f,na,"Intestines, Small",30315005,f,15535,15524,obstruction,26036001,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Fecal occult blood: positive,f,C0266813,f,na,null,null,f,15576,15555,guaiac positive stool,59614000,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Obstruction,f,C0028778,f,na,null,null,f,15692,15681,obstruction,26036001,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Thickened,f,C0205400,f,na,ileum,34516001,f,15744,15734,thickening,89977008,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Obstruction,f,C0028778,f,na,"Intestines, Small",264196002,f,15856,15845,obstruction,26036001,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Acute vomiting,f,C0232597,f,na,null,null,f,15899,15871,acute  nausea  and  vomiting,23971007,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Obstruction,f,C0028778,f,na,null,null,f,15976,15965,obstruction,26036001,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Complication,f,C0009566,f,na,null,null,t,16061,16048,complications,116223007,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Ischemia,f,C0022116,f,na,Intestines,256876008,f,16079,16071,ischemia,52674009,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Management procedure,f,C1273870,f,na,null,null,f,16132,16122,management,119270007,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Motility,f,C1510470,f,na,Gastrointestinal tract structure,51289009,f,16243,16235,motility,398598008,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Ischemia,f,C0022116,f,na,Intestines,256876008,f,16387,16379,ischemia,52674009,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Abdominal Pain,f,C0000737,f,na,"Intestines, Small",30315005,f,16474,16460,abdominal pain,21522001,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Ischemia,f,C0022116,f,na,Mesentery,261130005,f,16495,16487,ischemia,52674009,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Venous flow,f,C0429874,f,na,Veins,29092000,f,16573,16544,venous  intestinal blood flow,252081001,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Obstruction,f,C0028778,f,na,null,null,f,16593,16584,occlusion,26036001,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Vasospasm,f,C0085616,f,na,null,null,f,16604,16595,vasospasm,71772004,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Hypoperfusion,f,C0442856,f,na,null,null,f,16626,16613,hypoperfusion,264533003,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Ischemia,f,C0022116,f,na,Mesentery,89679009,f,16680,16672,ischemia,52674009,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Infarction,f,C0021308,f,na,null,null,f,16716,16706,infarction,55641003,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Ischemia,f,C0022116,f,na,Mesentery,89679009,f,16811,16803,ischemia,52674009,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Embolism,f,C0013922,f,na,Mesenteric Arteries,86570000,f,16852,16844,embolism,414086009,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Mesenteric Venous Thrombosis,f,C0267412,f,na,Mesenteric Arteries,86570000,f,16889,16858,"thrombosis,  mesenteric  venous",95446005,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Thrombosis,f,C0040053,f,na,Mesentery,261130005,f,16901,16891,thrombosis,118927008,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Ischemia,f,C0022116,f,na,null,null,f,16931,16923,ischemia,52674009,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Ischemia,f,C0022116,f,na,Arteries,51114001,f,16959,16951,ischemia,52674009,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Severe pain,f,C0278140,f,na,Abdomen,277112006,f,17068,17032,severe  periumbilical abdominal pain,76948002,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Nausea and vomiting,f,C0027498,f,na,null,null,f,17156,17137,nausea and vomiting,16932000,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Pain,f,C0030193,f,na,null,null,f,17169,17165,pain,22253000,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Ischemia,f,C0022116,f,na,Mesentery,89679009,f,17287,17279,ischemia,52674009,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Acidosis,f,C0001122,f,na,null,null,f,17324,17316,acidosis,51387008,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Acute abdominal pain,f,C0740577,f,na,Abdomen,113345001,f,17350,17330,acute abdominal pain,116290004,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Ischemia,f,C0022116,f,na,Mesentery,89679009,f,17383,17375,ischemia,52674009,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Ischemia,f,C0022116,f,na,Mesentery,89679009,f,17432,17424,ischemia,52674009,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,History of bowel obstruction,f,C4038779,f,na,Intestines,113276009,f,17569,17531,history  of  small  bowel  obstruction,328021000119108,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Hypoperfusion,f,C0442856,f,na,null,null,f,17629,17616,hypoperfusion,264533003,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Ischemia,f,C0022116,f,na,null,null,f,17652,17644,ischemia,52674009,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Ischemia,f,C0022116,f,na,Mesentery,89679009,f,17724,17716,ischemia,52674009,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Obstruction,f,C0028778,f,na,Blood Vessel,59820001,f,17777,17767,occlusions,26036001,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Stenosis,f,C1261287,f,na,Blood Vessel,59820001,f,17790,17782,stenoses,27551008,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Mesenteric Venous Thrombosis,t,C0267412,f,na,Mesentery,89679009,f,17866,17845,mesenteric thrombosis,95446005,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Laboratory test finding,f,C0587081,f,na,null,null,f,17872,17868,Labs,118246004,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Leukocytosis,f,C0023518,f,na,null,null,f,17933,17921,leukocytosis,111583006,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Nausea and vomiting,f,C0027498,f,na,null,null,f,18044,18025,nausea and vomiting,16932000,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Abdominal Pain,f,C0000737,f,na,Abdomen,277112006,f,18068,18054,abdominal pain,21522001,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Abdominal Pain,f,C0000737,f,na,Abdomen,113345001,f,18094,18080,abdominal pain,21522001,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Ischemia,f,C0022116,f,na,Mesentery,89679009,f,18144,18136,ischemia,52674009,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Abdominal Pain,f,C0000737,f,na,Abdomen,113345001,f,18190,18176,abdominal pain,21522001,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Normal vital signs,f,C0277803,f,na,null,null,f,18211,18193,normal vital signs,72970002,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Insulin Resistance,f,C0021655,f,na,null,null,f,18543,18524,insulin  resistance,48606007,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,gastric secretion function,f,C0232539,f,na,null,null,f,18727,18684,gastric  inhibitory  polypeptide  secretion,68545002,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Metabolic Inhibition,f,C0021469,f,na,null,null,f,18793,18783,inhibition,61511001,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Glucose level - finding,f,C0428548,f,na,null,null,f,19057,19043,glucose levels,365811003,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Blood Pressure,f,C0005823,f,na,Blood,87612001,f,19299,19285,blood pressure,75367002,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Cardiovascular event,f,C1320716,f,na,Cardiovascular system,113257007,f,19415,19371,cardiovascular  and  cerebrovascular  events,405617006,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Acute inflammation,f,C0333361,f,na,null,null,f,19658,19627,active episodes of inflammation,4532008,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Former smoker,f,C0337671,f,na,null,null,f,19726,19704,of  smoking  cessation,8517006,SNOMEDCT_US,na
+mayoclinic-covid19,mayoclinic-covid19.txt,texts/,Signs and Symptoms,f,C0037088,f,na,null,null,f,18,0,Signs and symptoms,404684003,SNOMEDCT_US,na
+mayoclinic-covid19,mayoclinic-covid19.txt,texts/,Incubation period,f,C1320226,f,na,null,null,f,183,166,incubation period,406646006,SNOMEDCT_US,na
+mayoclinic-covid19,mayoclinic-covid19.txt,texts/,Signs and Symptoms,f,C0037088,f,na,null,null,f,210,192,signs and symptoms,404684003,SNOMEDCT_US,na
+mayoclinic-covid19,mayoclinic-covid19.txt,texts/,Fever,f,C0015967,f,na,null,null,f,230,225,Fever,386661006,SNOMEDCT_US,na
+mayoclinic-covid19,mayoclinic-covid19.txt,texts/,Coughing,f,C0010200,f,na,null,null,f,236,231,Cough,263731006,SNOMEDCT_US,na
+mayoclinic-covid19,mayoclinic-covid19.txt,texts/,Fatigue,f,C0015672,f,na,null,null,f,246,237,Tiredness,84229001,SNOMEDCT_US,na
+mayoclinic-covid19,mayoclinic-covid19.txt,texts/,Dyspnea,f,C0013404,f,na,null,null,f,295,276,Shortness of breath,267036007,SNOMEDCT_US,na
+mayoclinic-covid19,mayoclinic-covid19.txt,texts/,Dyspnea,f,C0013404,f,na,null,null,f,319,299,difficulty breathing,230145002,SNOMEDCT_US,na
+mayoclinic-covid19,mayoclinic-covid19.txt,texts/,Myalgia,f,C0231528,f,na,Muscle,91727004,f,332,320,Muscle aches,68962001,SNOMEDCT_US,na
+mayoclinic-covid19,mayoclinic-covid19.txt,texts/,Chills,f,C0085593,f,na,null,null,f,339,333,Chills,43724002,SNOMEDCT_US,na
+mayoclinic-covid19,mayoclinic-covid19.txt,texts/,Sore Throat,f,C0242429,f,na,Pharyngeal structure,54066008,f,351,340,Sore throat,267102003,SNOMEDCT_US,na
+mayoclinic-covid19,mayoclinic-covid19.txt,texts/,Anosmia,f,C0003126,f,na,null,null,f,374,352,Loss of taste or smell,44169009,SNOMEDCT_US,na
+mayoclinic-covid19,mayoclinic-covid19.txt,texts/,Headache,f,C0018681,f,na,null,null,f,383,375,Headache,25064002,SNOMEDCT_US,na
+mayoclinic-covid19,mayoclinic-covid19.txt,texts/,Chest Pain,f,C0008031,f,na,Chest,51185008,f,394,384,Chest pain,29857009,SNOMEDCT_US,na
+mayoclinic-covid19,mayoclinic-covid19.txt,texts/,Exanthema,f,C0015230,f,na,null,null,f,486,482,rash,112625008,SNOMEDCT_US,na
+mayoclinic-covid19,mayoclinic-covid19.txt,texts/,"Nausea, vomiting and diarrhea",f,C0151791,f,na,null,null,f,517,488,"nausea, vomiting and diarrhea",2919008,SNOMEDCT_US,na
+mayoclinic-covid19,mayoclinic-covid19.txt,texts/,Illness (finding),f,C0221423,f,na,null,null,f,591,584,illness,39104002,SNOMEDCT_US,na
+small-acinar-carcinoma,small-acinar-carcinoma.txt,texts/,Gleason Pattern 3 (finding),f,C1276441,f,na,null,null,f,479,462,Gleason pattern 3,369772003,SNOMEDCT_US,na
+small-acinar-carcinoma,small-acinar-carcinoma.txt,texts/,Tumor margin status,f,C1269830,f,na,Surgical margins,82868003,f,659,653,margin,372249001,SNOMEDCT_US,na
+small-acinar-carcinoma,small-acinar-carcinoma.txt,texts/,Tumor margin status,f,C1269830,f,na,Surgical margins,82868003,f,702,696,Margin,372249001,SNOMEDCT_US,na
+small-acinar-carcinoma,small-acinar-carcinoma.txt,texts/,Infiltration,f,C0332448,f,na,null,null,f,955,943,infiltration,47351003,SNOMEDCT_US,na
+small-acinar-carcinoma,small-acinar-carcinoma.txt,texts/,Death Related to Adverse Event,f,C1705232,f,na,null,null,f,1208,1201,grade 5,446451000124100,SNOMEDCT_US,na

@@ -1,0 +1,171 @@
+note_id,file_name,folder_path,canon_text,conditional,cui,hof,imputed_time,location,location_snomed_id,negated,offset_end,offset_start,range_text,vocab_term,vocab,value
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Crohn Disease,f,C0010346,f,na,null,null,f,210,195,Crohn's Disease,34000006,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Hypertensive disease,f,C0020538,f,na,null,null,f,223,220,HTN,38341003,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Glycogen Storage Disease Type VI,f,C0017925,f,na,null,null,f,657,638,her Crohn's disease,29291001,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Crohn Disease,f,C0010346,f,na,null,null,f,1726,1719,Crohn's,34000006,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Crohn Disease,f,C0010346,f,na,null,null,f,1802,1787,Crohn's disease,34000006,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Crohn Disease,f,C0010346,f,na,null,null,f,2015,2008,Crohn's,34000006,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Crohn Disease,f,C0010346,f,na,null,null,f,2639,2624,Crohn's disease,34000006,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Adenocarcinoma of ileum,f,C0582430,f,na,ileum,34516001,f,2688,2656,Adenocarcinoma of terminal ileum,304545002,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Symmetrical dyschromatosis of extremities,f,C0406775,f,na,Distal part of ileum,85774003,f,2732,2729,rad,239085000,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Small bowel obstruction,f,C0235329,f,na,Intestines,113276009,f,2783,2760,small bowel obstruction,281255004,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Crohn Disease,f,C0010346,f,na,null,null,f,2812,2797,Crohn?s Disease,34000006,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Hypertensive disease,f,C0020538,f,na,null,null,f,2819,2816,HTN,38341003,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Deep Vein Thrombosis,f,C0149871,f,na,null,null,f,2823,2820,DVT,128053003,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Gastroesophageal reflux disease,f,C0017168,f,na,null,null,f,2844,2840,GERD,698065002,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Chronic Obstructive Airway Disease,f,C0024117,f,na,null,null,f,2849,2845,COPD,13645005,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Post-Traumatic Stress Disorder,f,C0038436,f,na,null,null,f,2879,2850,Posttraumatic stress disorder,47505003,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Bipolar Disorder,f,C0005586,f,na,null,null,f,2896,2880,Bipolar disorder,13746004,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,"Osteoarthritis, Knee",f,C0409959,f,na,Joints,39352004,f,2951,2929,osteoarthritis of knee,239873007,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Nicotine Dependence,f,C0028043,f,na,null,null,f,3033,3014,nicotine dependence,56294008,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Crohn Disease,f,C0010346,f,na,null,null,f,4462,4455,Crohn?s,34000006,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Falling injury,f,C1301836,f,na,Lower back structure,37822005,f,4531,4520,fall injury,398117008,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Degenerative polyarthritis,f,C0029408,f,na,null,null,f,4550,4536,osteoarthritis,225655006,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Schizophrenia,f,C0036341,f,na,null,null,f,5082,5069,Schizophrenia,58214004,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Diabetes Mellitus,f,C0011849,f,na,null,null,f,5138,5130,diabetes,73211009,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Hypertensive disease,f,C0020538,f,na,null,null,f,5168,5165,HTN,38341003,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,leukemia,f,C0023418,f,na,null,null,f,5200,5192,leukemia,87163000,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Anorexia,f,C0003123,f,na,null,null,t,5252,5244,anorexia,79890006,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Deglutition Disorders,f,C0011168,f,na,null,null,f,5493,5484,dysphagia,288939007,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Paroxysmal nocturnal dyspnea,f,C1956415,f,na,null,null,f,5588,5585,PND,55442000,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Incontinence,f,C0021167,f,na,null,null,t,5704,5692,incontinence,48340000,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Arthritis of knee,f,C0240111,f,na,Knee,304679005,f,5783,5761,arthritis in left knee,371081002,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Traumatic injury,f,C3263723,f,na,Lower back structure,37822005,f,5828,5822,injury,19130008,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Swelling of skeletal muscle,f,C0281913,f,na,Muscle,71616004,f,5880,5864,"swelling, muscle",298280009,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Paresthesia,f,C0030554,f,na,null,null,f,6051,6039,paresthesias,91019004,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Mixed anxiety and depressive disorder,f,C0338908,f,na,null,null,t,6129,6110,"depression, anxiety",231504006,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Memory impairment,f,C0233794,f,na,null,null,f,6162,6131,"memory loss, mental disturbance",386807006,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Hallucinations,f,C0018524,f,na,null,null,f,6198,6184,hallucinations,7011001,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Paranoia,f,C1456784,f,na,null,null,f,6208,6200,paranoia,191667009,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Common Cold,f,C0009443,f,na,null,null,f,6231,6227,cold,82272006,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Contusions,f,C0009938,f,na,null,null,t,6327,6319,bruising,125667009,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Urticaria,f,C0042109,f,na,null,null,t,6398,6389,urticaria,247472004,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Hay fever,f,C0018621,f,na,null,null,t,6409,6400,hay fever,444316004,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Persistent embryonic structure,f,C0332996,f,na,null,null,f,6421,6411,persistent,31807009,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Infections of musculoskeletal system,f,C0851162,f,na,null,null,f,6432,6422,infections,312154004,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,HIV Infections,f,C0019693,f,na,null,null,f,6437,6434,HIV,86406008,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Injury due to exposure to external cause,f,C0274281,f,na,null,null,t,6446,6438,exposure,71677004,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Obesity,f,C0028754,f,na,null,null,f,6633,6628,Obese,414916001,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Congenital Abnormality,f,C0000768,f,na,null,null,t,6921,6910,deformities,276654001,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Congenital Abnormality,f,C0000768,f,na,null,null,t,6970,6959,deformities,276654001,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Posterior pituitary disease,f,C0751438,f,na,Pharyngeal structure,54066008,f,7262,7253,posterior,72442006,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Erythema,f,C0041834,f,na,Pharyngeal structure,54066008,t,7287,7279,erythema,86735004,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Thyroid Nodule,f,C0040137,f,na,Thyroid Gland,69748006,t,7364,7349,thyroid nodules,237495005,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Accessory skeletal muscle,f,C0158784,f,na,Muscle,71616004,f,7546,7529,accessory muscles,50847000,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Posterior pituitary disease,f,C0751438,f,na,Tibialis posterior muscle structure,74318005,f,7785,7776,posterior,72442006,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Obesity,f,C0028754,f,na,Surgical scar,63130001,f,7885,7880,obese,414916001,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Hyperactive behavior,f,C0424295,f,na,null,null,f,7972,7961,hyperactive,44548000,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Liver mass,f,C0240225,f,na,Liver,10200004,t,8148,8121,liver  nodularity or masses,300332007,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Posterior pituitary disease,f,C0751438,f,na,null,null,t,8280,8271,posterior,72442006,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Ulcer,f,C0041582,f,na,null,null,f,8342,8331,ulcerations,429040005,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Nodule,f,C0028259,f,na,null,null,t,8364,8357,nodules,27925004,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Deformity,f,C0302142,f,na,Neck,45048000,t,8439,8430,deformity,6081001,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Petechiae,f,C0031256,f,na,null,null,t,8636,8627,petechiae,271813007,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Prostatic Intraepithelial Neoplasias,f,C0282612,f,na,null,null,f,8816,8813,pin,254901000,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Injury caused by vibration,f,C0677519,f,na,null,null,f,8827,8818,vibration,45477008,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Mixed anxiety and depressive disorder,f,C0338908,f,na,null,null,t,9126,9107,"depression, anxiety",231504006,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Lung consolidation,f,C0521530,f,na,null,null,t,9449,9436,consolidation,95436008,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Small bowel obstruction,f,C0235329,f,na,"Intestines, Small",30315005,f,9597,9574,small bowel obstruction,281255004,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Colitis,f,C0009319,f,na,null,null,f,9686,9679,colitis,64226004,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Crohn Disease,f,C0010346,f,na,null,null,f,9720,9705,Crohn's disease,34000006,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Terminal illness,f,C0679247,f,na,null,null,f,9802,9779,disease in the terminal,300936002,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Intestinal Obstruction,f,C0021843,f,na,Intestines,256876008,t,9855,9838,bowel obstruction,81060008,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Abscess,f,C0000833,f,na,null,null,t,9864,9857,abscess,44132006,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,pathologic fistula,f,C0016169,f,na,null,null,t,9875,9868,fistula,118622000,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Calculus of gallbladder with cholecystitis,f,C0267853,f,na,null,null,t,10034,9997,cholelithiasis or acute cholecystitis,25924004,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Crohn Disease,f,C0010346,f,na,null,null,f,10131,10116,Crohn's disease,34000006,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Adenocarcinoma of ileum,f,C0582430,f,na,ileum,34516001,f,10215,10183,Adenocarcinoma of terminal ileum,304545002,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Small bowel obstruction,f,C0235329,f,na,"Intestines, Small",30315005,f,10265,10242,small bowel obstruction,281255004,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Crohn Disease,f,C0010346,f,na,null,null,f,10294,10279,Crohn?s Disease,34000006,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Hypertensive disease,f,C0020538,f,na,null,null,f,10305,10302,HTN,38341003,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Deep Vein Thrombosis,f,C0149871,t,na,null,null,f,10315,10312,DVT,128053003,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Gastroesophageal reflux disease,f,C0017168,f,na,null,null,f,10337,10333,GERD,235595009,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Chronic Obstructive Airway Disease,f,C0024117,f,na,null,null,f,10342,10338,COPD,13645005,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Post-Traumatic Stress Disorder,f,C0038436,f,na,null,null,f,10372,10343,Posttraumatic stress disorder,47505003,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Bipolar Disorder,f,C0005586,f,na,null,null,f,10389,10373,Bipolar disorder,13746004,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,"Osteoarthritis, Knee",f,C0409959,f,na,Knee,304679005,f,10497,10475,osteoarthritis of knee,239873007,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Nicotine Dependence,f,C0028043,f,na,null,null,f,10548,10529,nicotine dependence,56294008,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Drug abuse,f,C0013146,f,na,null,null,f,10558,10553,abuse,26416006,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Injury due to exposure to external cause,f,C0274281,f,na,null,null,f,10635,10627,exposure,71677004,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Cocaine Abuse,f,C0009171,f,na,null,null,f,10671,10645,cocaine and possible abuse,78267003,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Drug abuse,f,C0013146,f,na,null,null,f,10686,10681,abuse,26416006,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Obesity,f,C0028754,f,na,null,null,f,10736,10729,obesity,414916001,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Crohn Disease,f,C0010346,f,na,null,null,f,10837,10822,Crohn?s disease,34000006,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Hypertensive disease,f,C0020538,f,na,null,null,f,10842,10839,HTN,38341003,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Crohn Disease,f,C0010346,f,na,null,null,f,10982,10967,Crohn?s disease,34000006,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Crohn Disease,f,C0010346,f,na,null,null,f,11008,11001,Crohn?s,34000006,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Crohn Disease,f,C0010346,f,na,null,null,f,11297,11282,Crohn?s disease,34000006,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Crohn Disease,f,C0010346,f,na,null,null,f,11418,11386,"disease,  specifically  a  Crohn",34000006,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Intestinal Diseases,f,C0021831,f,na,Intestines,261093006,f,11456,11422,"disease  exacerbation,  intestinal",85919009,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Mesenteric infarction,f,C0267406,f,na,Mesentery,261130005,f,11513,11475,mesenteric insufficiency or infarction,3558002,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Crohn Disease,f,C0010346,f,na,null,null,f,11578,11563,Crohn?s disease,34000006,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Inflammatory Bowel Diseases,f,C0021390,f,na,Intestines,256876008,f,11776,11743,disease  is an inflammatory bowel,24526004,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Ileitis,f,C0020877,f,na,null,null,f,12019,12012,ileitis,52457000,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Colitis,f,C0009319,f,na,null,null,f,12028,12021,colitis,64226004,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Intestinal Perforation,f,C0021845,f,na,Intestines,113276009,f,12047,12030,bowel perforation,56905009,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Perianal fistula,f,C0267561,f,na,Perianal,397158004,f,12084,12053,"fistula formation, and perianal",58103005,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Abscess,f,C0000833,f,na,Perianal,397158004,f,12094,12085,abscesses,128477000,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Crohn Disease,f,C0010346,f,na,null,null,f,12236,12221,Crohn?s disease,34000006,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Crohn Disease,f,C0010346,f,na,null,null,f,12419,12404,Crohn?s disease,34000006,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Crohn Disease,f,C0010346,f,na,null,null,f,12503,12488,Crohn?s disease,34000006,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Crohn Disease,f,C0010346,f,na,null,null,f,12650,12643,Crohn?s,34000006,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Inflammatory disorder,f,C1290884,t,na,Intestines,256876008,f,12698,12672,inflammatory bowel disease,128139000,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Ulcerative Colitis,f,C0009324,f,na,null,null,f,12717,12699,ulcerative colitis,64766004,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,pathologic fistula,f,C0016169,f,na,null,null,f,12891,12883,fistulas,419351001,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Colon Carcinoma,f,C0699790,f,na,Colon structure (body structure),263977005,f,12956,12944,colon cancer,269533000,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Disorder of eye,f,C0015397,f,na,Eye,371398005,f,13038,13015,"disease,  including eye",371409005,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Uveitis,f,C0042164,f,na,Eye involvement,264523006,f,13059,13052,uveitis,128473001,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Iritis,f,C0022081,f,na,Eye involvement,264523006,f,13067,13061,iritis,65074000,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Episcleritis,f,C0014583,f,na,Eye involvement,264523006,f,13085,13073,episcleritis,815008,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Dermatologic disorders,f,C0037274,f,na,Skin,39937001,f,13102,13088,skin disorders,95320005,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Erythema Nodosum,f,C0014743,f,na,Skin,39937001,f,13120,13104,erythema nodosum,32861005,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Pyoderma Gangrenosum,f,C0085652,f,na,Skin,39937001,f,13148,13127,pyoderma  gangrenosum,74578003,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Arthritis,f,C0003864,f,na,Joints,39352004,f,13161,13152,arthritis,3723001,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Primary cholangitis,f,C0267919,f,na,Joints,39352004,f,13232,13200,primary  sclerosing  cholangitis,17266006,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Reactive systemic amyloidosis,f,C0221014,f,na,null,null,f,13255,13234,secondary amyloidosis,281034005,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Arthritis of knee,f,C0240111,f,na,Knee,304679005,f,13374,13360,knee arthritis,371081002,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Deep Vein Thrombosis,f,C0149871,f,na,null,null,f,13408,13405,DVT,128053003,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Crohn Disease,f,C0010346,f,na,null,null,f,13517,13501,Crohn?s  disease,34000006,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Inflammatory disorder,f,C1290884,f,na,null,null,f,13615,13586,disease and its  inflammatory,128139000,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Crohn Disease,f,C0010346,f,na,null,null,f,13643,13627,Crohn?s  disease,34000006,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Role Playing DIsorder,f,C0699820,f,na,null,null,f,13720,13698,play  primarily a role,51491004,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Crohn Disease,f,C0010346,f,na,null,null,f,14172,14144,disease  and  prevent  Crohn,34000006,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Crohn Disease,f,C0010346,f,na,null,null,f,14307,14300,Crohn's,34000006,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Communicable Diseases,f,C0009450,f,na,null,null,f,14710,14701,infection,40733004,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Crohn Disease,f,C0010346,f,na,null,null,f,14789,14782,Crohn?s,34000006,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Small bowel obstruction,f,C0235329,f,na,Intestines,113276009,f,14878,14853,small  bowel  obstruction,281255004,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Hernia,f,C0019270,f,na,null,null,f,15056,15049,hernias,52515009,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Gastroparesis,f,C0152020,f,na,null,null,f,15108,15095,gastroparesis,235675006,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Intestinal obstruction co-occurrent and due to decreased peristalsis,f,C4019039,f,na,null,null,f,15144,15139,ileus,710572000,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Intestinal Obstruction,t,C0021843,f,na,Intestines,256876008,f,15480,15458,intestinal obstruction,81060008,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Small bowel obstruction,f,C0235329,f,na,Intestines,261093006,f,15535,15511,small bowel  obstruction,281255004,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Small bowel obstruction,f,C0235329,f,na,Intestines,113276009,f,15692,15669,small bowel obstruction,281255004,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Crohn Disease,f,C0010346,f,na,Distal part of ileum,85774003,f,15820,15804,Crohn?s  disease,34000006,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Small bowel obstruction,f,C0235329,f,na,Intestines,113276009,f,15856,15831,small  bowel  obstruction,281255004,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Small bowel obstruction,f,C0235329,f,na,Intestines,113276009,f,15976,15953,small bowel obstruction,281255004,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Death by strangulation,f,C0277631,f,na,Intestines,256876008,f,16097,16084,strangulation,25318002,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Acute vascular insufficiency of intestine (disorder),f,C0001363,f,na,Mesentery,89679009,f,16387,16360,Acute  mesenteric  ischemia,91489000,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Mesenteric vascular insufficiency,f,C1412000,f,na,Mesentery,261130005,f,16495,16476,Mesenteric ischemia,24988007,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Mesenteric vascular insufficiency,f,C1412000,f,na,Mesentery,89679009,f,16680,16660,Mesenteric  ischemia,24988007,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Sepsis,f,C0243026,f,na,null,null,f,16725,16719,sepsis,91302008,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Superior mesenteric artery thrombosis,f,C0347888,f,na,Superior mesenteric artery structure,42258001,f,16868,16816,superior mesenteric artery  embolism  or  thrombosis,197000003,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Mesenteric vascular insufficiency,f,C1412000,f,na,Arteries,51114001,f,16959,16940,mesenteric ischemia,24988007,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Mesenteric vascular insufficiency,f,C1412000,f,na,Mesentery,89679009,f,17287,17268,mesenteric ischemia,24988007,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Mesenteric vascular insufficiency,f,C1412000,f,na,Mesentery,89679009,f,17383,17364,mesenteric ischemia,24988007,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Mesenteric vascular insufficiency,f,C1412000,f,na,Mesentery,89679009,f,17432,17412,mesenteric  ischemia,24988007,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Thrombophilia,f,C0398623,f,na,Mesentery,89679009,f,17459,17441,hypercoagulability,234467004,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Deep Vein Thrombosis,f,C0149871,f,na,null,null,f,17481,17478,DVT,128053003,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Small bowel obstruction,f,C0235329,t,na,Intestines,113276009,f,17569,17544,small  bowel  obstruction,281255004,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Mesenteric vascular insufficiency,f,C1412000,f,na,Mesentery,89679009,f,17724,17704,mesenteric  ischemia,24988007,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Acute vascular insufficiency of intestine (disorder),f,C0001363,f,na,Mesentery,89679009,f,18144,18119,acute mesenteric ischemia,91489000,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Aicardi's syndrome,f,C0175713,f,na,Internal capsule anterior limb structure,3003007,f,18426,18423,AIC,80651009,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Insulin resistance in diabetes,f,C0342335,f,na,null,null,f,18553,18524,insulin  resistance  diabetes,237650006,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Hyperinsulinism,f,C0020459,f,na,null,null,f,18776,18743,increased  secretion  of  insulin,83469008,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Hypertensive disease,f,C0020538,f,na,null,null,f,19066,19063,HTN,38341003,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Hypertensive disease,f,C0020538,f,na,null,null,f,19095,19083,hypertension,38341003,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Hypertensive disease,f,C0020538,f,na,null,null,f,19172,19160,hypertension,38341003,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Tissue damage,f,C0010957,f,na,null,null,f,19356,19350,damage,37782003,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Nicotine Dependence,f,C0028043,f,na,null,null,f,19494,19475,Nicotine dependence,56294008,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Crohn Disease,f,C0010346,f,na,null,null,f,19611,19604,Crohn?s,34000006,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Malignant Neoplasms,f,C0006826,f,na,null,null,f,19818,19812,cancer,363346000,SNOMEDCT_US,na
+abdominal-pain-unc-part1,abdominal-pain-unc-part1.txt,texts/,Crohn Disease,f,C0010346,f,na,null,null,f,19859,19844,Crohn?s disease,34000006,SNOMEDCT_US,na

@@ -1,0 +1,22 @@
+note_id,file_name,folder_path,canon_text,conditional,cui,hof,imputed_time,location,location_snomed_id,negated,offset_end,offset_start,range_text,vocab_term,vocab,value
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Cholelithiasis,f,C0008350,f,na,null,null,f,546,536,Gallstones,266474003,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Kidney Calculi,f,C0022650,f,na,Kidney,64033007,f,560,547,Kidney stones,95570007,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Urinary tract infection,f,C0042029,f,na,Kidney,64033007,f,565,561,UTIs,68566005,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Coronary Artery Disease,f,C1956346,f,na,null,null,f,572,569,CAD,414024009,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Hypertensive disease,f,C0020538,f,na,null,null,f,576,573,HTN,38341003,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Cerebrovascular accident,f,C0038454,f,na,null,null,f,586,580,Stroke,230690007,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Peripheral Vascular Diseases,f,C0085096,f,na,null,null,f,593,590,PVD,400047006,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Deep Vein Thrombosis,f,C0149871,f,na,null,null,f,597,594,DVT,128053003,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Chronic Obstructive Airway Disease,f,C0024117,f,na,null,null,f,602,598,COPD,13645005,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Asthma,f,C0004096,f,na,null,null,f,609,603,Asthma,195967001,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Hernia,f,C0019270,f,na,null,null,f,700,694,Hernia,52515009,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Coronary Artery Disease,f,C1956346,f,na,null,null,f,789,786,CAD,53741008,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Cerebrovascular accident,f,C0038454,f,na,null,null,f,805,799,Stroke,230690007,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Hypertensive disease,f,C0020538,f,na,null,null,f,809,806,HTN,38341003,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Gastroenteritis,f,C0017160,f,na,null,null,f,1716,1701,Gastroenteritis,25374005,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Gastritis,f,C0017152,f,na,null,null,f,1727,1718,Gastritis,4556007,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Pancreatitis,f,C0030305,f,na,null,null,f,1746,1734,Pancreatitis,75694006,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Cholecystitis,f,C0008325,f,na,null,null,f,1761,1748,Cholecystitis,76581006,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Diverticulitis,f,C0012813,f,na,null,null,f,1777,1763,Diverticulitis,18126004,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Urinary tract infection,f,C0042029,f,na,null,null,f,1782,1779,UTI,68566005,SNOMEDCT_US,na
+admission-note-for-abdominal-pain,admission-note-for-abdominal-pain.txt,texts/,Infantile Neuroaxonal Dystrophy,f,C0270724,f,na,null,null,f,1788,1784,PLAN,52713000,SNOMEDCT_US,na
